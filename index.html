@@ -28,55 +28,63 @@
                 this.spaceL = this.week * this.weeks - this.spaceF - this.days;
                 this.space = '                 ';
                 this.weeksObj = [];
+                this.result = `| 🗓 |        M        |        T        |        W        |        T        |        F        |        S        |        S        |
+| -- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |\n`
             }
             generate() {
-                console.log(this.weeks);
-                let weeksArray = [
-                    [],
-                    [],
-                    [],
-                    [],
-                    [],
-                    [],
-                ]
+                let weeksArray = [];
+                if (this.month < 10) {
+                    this.month = `0${this.month}`;
+                }
+                for (let i = 0; i < this.weeks; i++) {
+                    weeksArray.push([]);
+                    
+                }
                 for (let i = 0; i < this.spaceF; i++) {
                     weeksArray[0].push(this.space);
                 }
-                
                 for (let i = 0; i < this.week - this.spaceF; i++) {
                     let day = this.days - this.count;
                     if (day < 10) {
                         day = `0${day}`;
                     }
                     weeksArray[0].push(`[${day}](#${this.year}-${this.month}-${day})`)
-                    this.count--;
+                    if ( this.count >= 0 ) {
+                        this.count--;
+                    }
                 }
                 for (let i = 0; i < weeksArray.length; i++) {
+                    weeksArray[i].unshift(` W${i+1} `);
                     for (let j = 0; j < this.week; j++) {
                         let day = this.days - this.count;
                         if (day < 10) {
                             day = `0${day}`;
                         }
-                        if (i + 1 < this.weeks) {
-                            weeksArray[i+1].push(`[${day}](#${this.year}-${this.month}-${day})`)
+                        if (i <= this.weeks - 2) {
+                            if (day <=this.days ) {
+                                weeksArray[i+1].push(`[${day}](#${this.year}-${this.month}-${day})`)
+                            }
                         }
-                        this.count--;
-                    }
-                    
+                        
+                        if ( this.count >= 0 ) {
+                            this.count--;
+                        }
+                    }   
                 }
-
                 for (let h = 0; h < this.spaceL; h++) {
-                    weeksArray[5].push(this.space);
+                    weeksArray[weeksArray.length - 1].push(this.space);
                 }
-                const result = `|${weeksArray[0].join('|')}|\n|${weeksArray[1].join('|')}|\n|${weeksArray[2].join('|')}|\n|${weeksArray[3].join('|')}|\n|${weeksArray[4].join('|')}|\n|${weeksArray[5].join('|')}|\n`;
-                console.log(result);
+                for (let i = 0; i < this.weeks; i++) {
+                    this.result = this.result + `|${weeksArray[i].join('|')}|\n`;
+                }
+                console.log(this.result);
             }
         }
         const December = new Calendar(2018, 12, 31, 5);
         const January = new Calendar(2019, 01, 31, 1);
 
         document.querySelector('button').addEventListener('click', () => {
-           December.generate();
+            January.generate();
         })
     </script>
 </body>
