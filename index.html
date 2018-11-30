@@ -16,89 +16,67 @@
 <body>
     <button></button>
     <script>
-        const calendar = (days, month, year, decale) => {
-            // `[${day}](#${year}-${year}-${year})`
-            // | W1 |                 |[01](#2018-12-01)|[02](#2018-12-02)|[03](#2018-12-03)|[04](#2018-12-04)|[05](#2018-12-05)|[06](#2018-12-06)|
-            // | W2 |[07](#2018-12-07)|[08](#2018-12-08)|[09](#2018-12-09)|[10](#2018-12-10)|[12](#2018-12-11)|[12](#2018-12-12)|[13](#2018-12-13)|
-            // | W3 |[14](#2018-12-14)|[15](#2018-12-15)|[16](#2018-12-16)|[17](#2018-12-17)|[18](#2018-12-18)|[19](#2018-12-19)|[20](#2018-12-20)|
-            // | W4 |[21](#2018-12-21)|[22](#2018-12-22)|[23](#2018-12-23)|[24](#2018-12-24)|[25](#2018-12-25)|[26](#2018-12-26)|[27](#2018-12-27)|
-            // | W5 |[28](#2018-12-28)|[29](#2018-12-29)|[30](#2018-12-30)|[31](#2018-12-31)|                 |                 |                 |
-            for (let h = 0; h < decale.length; h++) {
-                array.push('test');
-                console.log(array)
+        const Calendar = class {
+            constructor(year, month, days, spaceF) {
+                this.year = year;
+                this.month = month;
+                this.days = days;
+                this.spaceF = spaceF
+                this.count = days - 1;
+                this.week = 7;
+                this.weeks = Math.floor((this.spaceF + this.days) / 7 + 1);
+                this.spaceL = this.week * this.weeks - this.spaceF - this.days;
+                this.space = '                 ';
+                this.weeksObj = [];
             }
-            for (let i = 0; i < days.length; i++) {
-                array.push(`[${day[i]}](#${year}-${month}-${day[i]})`)
-                console.log(array)
-            }
-        };
+            generate() {
+                console.log(this.weeks);
+                let weeksArray = [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                ]
+                for (let i = 0; i < this.spaceF; i++) {
+                    weeksArray[0].push(this.space);
+                }
+                
+                for (let i = 0; i < this.week - this.spaceF; i++) {
+                    let day = this.days - this.count;
+                    if (day < 10) {
+                        day = `0${day}`;
+                    }
+                    weeksArray[0].push(`[${day}](#${this.year}-${this.month}-${day})`)
+                    this.count--;
+                }
+                for (let i = 0; i < weeksArray.length; i++) {
+                    for (let j = 0; j < this.week; j++) {
+                        let day = this.days - this.count;
+                        if (day < 10) {
+                            day = `0${day}`;
+                        }
+                        if (i + 1 < this.weeks) {
+                            weeksArray[i+1].push(`[${day}](#${this.year}-${this.month}-${day})`)
+                        }
+                        this.count--;
+                    }
+                    
+                }
 
-        let days = 31;
-        const month = 11;
-        const year = 2018;
-        const decale = 5;
+                for (let h = 0; h < this.spaceL; h++) {
+                    weeksArray[5].push(this.space);
+                }
+                const result = `|${weeksArray[0].join('|')}|\n|${weeksArray[1].join('|')}|\n|${weeksArray[2].join('|')}|\n|${weeksArray[3].join('|')}|\n|${weeksArray[4].join('|')}|\n|${weeksArray[5].join('|')}|\n`;
+                console.log(result);
+            }
+        }
+        const December = new Calendar(2018, 12, 31, 5);
+        const January = new Calendar(2019, 01, 31, 1);
+
         document.querySelector('button').addEventListener('click', () => {
-            let w1 = [];
-            let w2 = [];
-            let w3 = [];
-            let w4 = [];
-            let w5 = [];
-            let w6 = [];
-            let count = days -1;
-            for (let h = 0; h < decale; h++) {
-                w1.push('                 ');
-            }
-            for (let i = 0; i < 7 - decale; i++) {
-                let day = days - count;
-                if (day < 10) {
-                    day = `0${day}`;
-                }
-                w1.push(`[${day}](#${year}-${month}-${day})`)
-                count--;
-            }
-            for (let i = 0; i < 7; i++) {
-                let day = days - count;
-                if (day < 10) {
-                    day = `0${day}`;
-                }
-                w2.push(`[${day}](#${year}-${month}-${day})`)
-                count--;
-            }
-            for (let i = 0; i < 7; i++) {
-                let day = days - count;
-                if (day < 10) {
-                    day = `0${day}`;
-                }
-                w3.push(`[${day}](#${year}-${month}-${day})`)
-                count--;
-            }
-            for (let i = 0; i < 7; i++) {
-                let day = days - count;
-                if (day < 10) {
-                    day = `0${day}`;
-                }
-                w4.push(`[${day}](#${year}-${month}-${day})`)
-                count--;
-            }
-            for (let i = 0; i < 7; i++) {
-                let day = days - count;
-                if (day < 10) {
-                    day = `0${day}`;
-                }
-                w5.push(`[${day}](#${year}-${month}-${day})`)
-                count--;
-            }
-            for (let i = 0; i < 7; i++) {
-                let day = days - count;
-                if (day < 10) {
-                    day = `0${day}`;
-                }
-                if (day <= days) {
-                    w6.push(`[${day}](#${year}-${month}-${day})`)
-                }
-                count--;
-            }
-            console.log(`|${w1.join('|')}|\n|${w2.join('|')}|\n|${w3.join('|')}|\n|${w4.join('|')}|\n|${w5.join('|')}|\n|${w6.join('|')}|\n`);
+           December.generate();
         })
     </script>
 </body>
