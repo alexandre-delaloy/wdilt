@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        button {
+            background: cyan;
+            width: 25px;
+            height: 25px;
+        }
+    </style>
+</head>
+<body>
+    <button></button>
+    <script>
+        const calendar = (days, month, year, decale) => {
+            // `[${day}](#${year}-${year}-${year})`
+            // | W1 |                 |[01](#2018-12-01)|[02](#2018-12-02)|[03](#2018-12-03)|[04](#2018-12-04)|[05](#2018-12-05)|[06](#2018-12-06)|
+            // | W2 |[07](#2018-12-07)|[08](#2018-12-08)|[09](#2018-12-09)|[10](#2018-12-10)|[12](#2018-12-11)|[12](#2018-12-12)|[13](#2018-12-13)|
+            // | W3 |[14](#2018-12-14)|[15](#2018-12-15)|[16](#2018-12-16)|[17](#2018-12-17)|[18](#2018-12-18)|[19](#2018-12-19)|[20](#2018-12-20)|
+            // | W4 |[21](#2018-12-21)|[22](#2018-12-22)|[23](#2018-12-23)|[24](#2018-12-24)|[25](#2018-12-25)|[26](#2018-12-26)|[27](#2018-12-27)|
+            // | W5 |[28](#2018-12-28)|[29](#2018-12-29)|[30](#2018-12-30)|[31](#2018-12-31)|                 |                 |                 |
+            for (let h = 0; h < decale.length; h++) {
+                array.push('test');
+                console.log(array)
+            }
+            for (let i = 0; i < days.length; i++) {
+                array.push(`[${day[i]}](#${year}-${month}-${day[i]})`)
+                console.log(array)
+            }
+        };
+
+        let days = 31;
+        const month = 11;
+        const year = 2018;
+        const decale = 5;
+        document.querySelector('button').addEventListener('click', () => {
+            let w1 = [];
+            let w2 = [];
+            let w3 = [];
+            let w4 = [];
+            let w5 = [];
+            let w6 = [];
+            let count = days -1;
+            for (let h = 0; h < decale; h++) {
+                w1.push('                 ');
+            }
+            for (let i = 0; i < 7 - decale; i++) {
+                let day = days - count;
+                if (day < 10) {
+                    day = `0${day}`;
+                }
+                w1.push(`[${day}](#${year}-${month}-${day})`)
+                count--;
+            }
+            for (let i = 0; i < 7; i++) {
+                let day = days - count;
+                if (day < 10) {
+                    day = `0${day}`;
+                }
+                w2.push(`[${day}](#${year}-${month}-${day})`)
+                count--;
+            }
+            for (let i = 0; i < 7; i++) {
+                let day = days - count;
+                if (day < 10) {
+                    day = `0${day}`;
+                }
+                w3.push(`[${day}](#${year}-${month}-${day})`)
+                count--;
+            }
+            for (let i = 0; i < 7; i++) {
+                let day = days - count;
+                if (day < 10) {
+                    day = `0${day}`;
+                }
+                w4.push(`[${day}](#${year}-${month}-${day})`)
+                count--;
+            }
+            for (let i = 0; i < 7; i++) {
+                let day = days - count;
+                if (day < 10) {
+                    day = `0${day}`;
+                }
+                w5.push(`[${day}](#${year}-${month}-${day})`)
+                count--;
+            }
+            for (let i = 0; i < 7; i++) {
+                let day = days - count;
+                if (day < 10) {
+                    day = `0${day}`;
+                }
+                if (day <= days) {
+                    w6.push(`[${day}](#${year}-${month}-${day})`)
+                }
+                count--;
+            }
+            console.log(`|${w1.join('|')}|\n|${w2.join('|')}|\n|${w3.join('|')}|\n|${w4.join('|')}|\n|${w5.join('|')}|\n|${w6.join('|')}|\n`);
+        })
+    </script>
+</body>
+</html>
