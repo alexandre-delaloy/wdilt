@@ -35,9 +35,9 @@ const December2018 = new Calendar(2018, 12, 31, 6).fill();
 
 > You can see the result in markdown below ⬇️
 
-## Progression
+# Progression
 
-### December 2018
+## December 2018
 
 | 🗓 |        Su       |        Mo       |        Tu       |        We       |        Tu       |        Fr       |        Sa       |
 | -- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
@@ -48,13 +48,7 @@ const December2018 = new Calendar(2018, 12, 31, 6).fill();
 | W5 |[23](#2018-12-23)|[24](#2018-12-24)|[25](#2018-12-25)|[26](#2018-12-26)|[27](#2018-12-27)|[28](#2018-12-28)|[29](#2018-12-29)|
 | W6 |[30](#2018-12-30)|[31](#2018-12-31)|                 |                 |                 |                 |                 |
 
-## List
-
-### December 2018
-
-#### Week 1
-
-##### 2018-12-01
+### 2018-12-01
 
 Today I learned OOP in JavaScript:
 - [class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class): creates a new **class** with a **given name** using **prototype-based inheritance**.
@@ -76,3 +70,16 @@ super.functionOnParent([arguments]);
 ```JavaScript
 static methodName() { ... }
 ```
+
+<!-- Today I learned all the **ES6 changes** and **improvements**
+
+**Breaking** & very **useful** changes:
+
+- [Spread Operator](http://es6-features.org/#SpreadOperator)
+- [String Interpolation](http://es6-features.org/#StringInterpolation)
+- [Array Matching](http://es6-features.org/#ArrayMatching)
+- Object Matching:
+
+    - [Shorthand Notation](http://es6-features.org/#ObjectMatchingShorthandNotation)
+    - [Deep Matching](http://es6-features.org/#ObjectMatchingDeepMatching)
+- [Value Export/Import](http://es6-features.org/#ValueExportImport)
