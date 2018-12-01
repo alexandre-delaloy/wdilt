@@ -56,4 +56,23 @@ const December2018 = new Calendar(2018, 12, 31, 6).fill();
 
 ##### 2018-12-01
 
-Today I learned ...
+Today I learned OOP in JavaScript:
+- [class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class): creates a new **class** with a **given name** using **prototype-based inheritance**.
+```JavaScript
+class Name [extends] {
+  // class body
+}
+```
+- [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor): a special **method** for **creating and initializing an object** created within a class.
+```JavaScript
+constructor([arguments]) { ... }
+```
+- [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super): used to **access** and **call functions** on an **object**'s parent.
+```JavaScript
+super([arguments]); // calls the parent constructor.
+super.functionOnParent([arguments]);
+```
+- [static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static): defines a **static method** for a class. Static methods **aren't called** on **instances** of the class.
+```JavaScript
+static methodName() { ... }
+```
