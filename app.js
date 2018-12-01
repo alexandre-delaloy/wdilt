@@ -21,8 +21,8 @@ const Calendar = class {
         }
     }
     fill() {
-        if (this.month < 10) {
-            this.month = `0${this.month}`;
+        if (this.month < 10) {             
+            this.month = `0${this.day}`;         
         }
         for (let i = 0; i < this.weeks; i++) {
             this.tmp.push([]);
@@ -57,11 +57,10 @@ const Calendar = class {
         for (let i = 0; i < this.weeks; i++) {
             this.md += `|${this.tmp[i].join('|')}|\n`;
         }
-        console.log('🛠 | Here we go !\n🏷 | Copy/paste the calendar table in a markdown file. \n==================================================\n');
-        return console.log(this.md);
+        return console.log(`🛠 | Copy/paste the calendar table in a markdown file. \n==================================================\n\n${this.md}`);
     }
 }
 const December = new Calendar(2018, 12, 31, 5);
 const January = new Calendar(2019, 01, 31, 1);
 
-new Calendar(2018, 12, 31, 6).fill();
+new Calendar(2019, 02, 28, 4).fill();
