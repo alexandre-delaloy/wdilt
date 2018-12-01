@@ -9,7 +9,7 @@ const Calendar = class {
         this.ftr = 7 * this.weeks - this.bfr - this.days;
         this.tmp = [];
         this.space = '                 ';
-        this.md = `| 🗓 |        Mo       |        Tu       |        We       |        Tu       |        Fr       |        Sa       |        Su       |
+        this.md = `| 🗓 |        Su       |        Mo       |        Tu       |        We       |        Tu       |        Fr       |        Sa       |
 | -- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |\n`
     }
     addDay(index) {
@@ -64,4 +64,4 @@ const Calendar = class {
 const December = new Calendar(2018, 12, 31, 5);
 const January = new Calendar(2019, 01, 31, 1);
 
-new Calendar(2018, 12, 31, 5).fill();
+new Calendar(2018, 12, 31, 6).fill();
