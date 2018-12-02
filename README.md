@@ -27,7 +27,13 @@ class Calendar(year, month, days, bfr)
 > Exemple: December of 2018 has **6** empty spaces before the **first one**
 ![December](http://image.noelshack.com/fichiers/2018/48/6/1543664518-capture-d-ecran-2018-12-01-a-12-41-50.png)
 
-### Demonstration
+### Run it
+
+- **Create** a new `Calendar` with specific parameters
+- Add `.fill()` **method**
+- run `node app.js` in a **large terminal** to see the **results**
+
+__Exemple:__
 
 ```JavaScript
 const December2018 = new Calendar(2018, 12, 31, 6).fill();
@@ -51,35 +57,59 @@ const December2018 = new Calendar(2018, 12, 31, 6).fill();
 ### 2018-12-01
 
 Today I learned OOP in JavaScript:
+
 - [class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class): creates a new **class** with a **given name** using **prototype-based inheritance**.
+
 ```JavaScript
 class Name [extends] {
   // class body
 }
 ```
+
 - [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor): a special **method** for **creating and initializing an object** created within a class.
+
 ```JavaScript
 constructor([arguments]) { ... }
 ```
+
 - [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super): used to **access** and **call functions** on an **object**'s parent.
+
 ```JavaScript
 super([arguments]); // calls the parent constructor.
 super.functionOnParent([arguments]);
 ```
+
 - [static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static): defines a **static method** for a class. Static methods **aren't called** on **instances** of the class.
+
 ```JavaScript
 static methodName() { ... }
 ```
 
-<!-- Today I learned all the **ES6 changes** and **improvements**
+Today I learned in **details** what is **ES6 (ECMAScript6)** and all the **changes** and **improvements** compared to **ES5**
 
-**Breaking** & very **useful** changes:
+#### What is ES6
+
+- [ECMA International](https://en.wikipedia.org/wiki/Ecma_International): a standards organization for **information** and **communication** **systems**.
+- [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript): a **trademarked scripting-language** specification standardized by **Ecma International** in `ECMA-262` and `ISO/IEC 16262`
+- [ES6 (ECMAScript6) features](http://es6-features.org): 6th version of ECMAScript
+
+#### Breaking & very useful changes:
 
 - [Spread Operator](http://es6-features.org/#SpreadOperator)
 - [String Interpolation](http://es6-features.org/#StringInterpolation)
 - [Array Matching](http://es6-features.org/#ArrayMatching)
-- Object Matching:
+- **Object Matching:**
 
     - [Shorthand Notation](http://es6-features.org/#ObjectMatchingShorthandNotation)
     - [Deep Matching](http://es6-features.org/#ObjectMatchingDeepMatching)
 - [Value Export/Import](http://es6-features.org/#ValueExportImport)
+- [Class Inherance](http://es6-features.org/#ClassInheritance)
+- [Getter/Setter](http://es6-features.org/#GetterSetter)
+- [Generator Function](http://es6-features.org/#GeneratorFunctionDirectUse)
+
+Learn soon:
+- setter
+- getter
+- boilerplate
+- polyfill
+- transpiller
