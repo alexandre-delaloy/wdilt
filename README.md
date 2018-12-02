@@ -24,8 +24,9 @@ class Calendar(year, month, days, bfr)
 - `month` : the **month** you choose
 - `year` : the **number** of days
 - `bfr` : the number of **empty spaces** before the **first one**
-> Exemple: December of 2018 has **6** empty spaces before the **first one**
+
 ![December](http://image.noelshack.com/fichiers/2018/48/7/1543749577-december.png)
+> Exemple: December of 2018 has **6** empty spaces before the **first one**
 
 ### Run it
 
