@@ -85,6 +85,8 @@ super.functionOnParent([arguments]);
 static methodName() { ... }
 ```
 
+### 2018-12-02
+
 Today I learned in **details** what is **ES6 (ECMAScript6)** and all the **changes** and **improvements** compared to **ES5**
 
 #### What is ES6
