@@ -54,6 +54,7 @@ const December2018 = new Calendar(2018, 12, 31, 6).fill();
 | W4 |[16](#2018-12-16)|[17](#2018-12-17)|[18](#2018-12-18)|[19](#2018-12-19)|[20](#2018-12-20)|[21](#2018-12-21)|[22](#2018-12-22)|
 | W5 |[23](#2018-12-23)|[24](#2018-12-24)|[25](#2018-12-25)|[26](#2018-12-26)|[27](#2018-12-27)|[28](#2018-12-28)|[29](#2018-12-29)|
 | W6 |[30](#2018-12-30)|[31](#2018-12-31)|                 |                 |                 |                 |                 |
+____
 
 ### 2018-12-01
 
@@ -86,6 +87,8 @@ super.functionOnParent([arguments]);
 static methodName() { ... }
 ```
 
+____
+
 ### 2018-12-02
 
 Today I learned in **details** what is **ES6 (ECMAScript6)** and all the **changes** and **improvements** compared to **ES5**
@@ -96,7 +99,7 @@ Today I learned in **details** what is **ES6 (ECMAScript6)** and all the **chang
 - [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript): a **trademarked scripting-language** specification standardized by **Ecma International** in `ECMA-262` and `ISO/IEC 16262`
 - [ES6 (ECMAScript6) features](http://es6-features.org): 6th version of ECMAScript
 
-#### Breaking & very useful changes:
+#### Breaking & very useful changes
 
 - [Spread Operator](http://es6-features.org/#SpreadOperator)
 - [String Interpolation](http://es6-features.org/#StringInterpolation)
@@ -110,8 +113,21 @@ Today I learned in **details** what is **ES6 (ECMAScript6)** and all the **chang
 - [Getter/Setter](http://es6-features.org/#GetterSetter)
 - [Generator Function](http://es6-features.org/#GeneratorFunctionDirectUse)
 
-<!-->
-Learn soon:
+____
+
+### 2018-12-03
+
+Today I learned the **basics** of **PixiJS**, a **rendering engine** to make beautiful **2D webGL digital content**:
+
+- [Website](http://www.pixijs.com/)
+- [Repository](https://github.com/pixijs/pixi.js)
+- [A very useful tutorial](https://github.com/kittykatattack/learningPixi)
+- [Examples](https://pixijs.io/examples/#/basics/basic.js)
+- [An opinion about Phaser VS PixiJS](https://stackoverflow.com/questions/38509629/decide-pixi-js-or-phaser)
+
+____
+
+**Learn soon:**
 
 - setter
 - getter
