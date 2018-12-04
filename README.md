@@ -125,6 +125,28 @@ Today I learned the **basics** of **PixiJS**, a **rendering engine** to make bea
 - [Examples](https://pixijs.io/examples/#/basics/basic.js)
 - [An opinion about Phaser VS PixiJS](https://stackoverflow.com/questions/38509629/decide-pixi-js-or-phaser)
 
+----
+
+### 2018-12-04
+
+Today I learned how to display **static and animated sprites** from an **Adobe Animate** export:
+
+- How to display them from a **parent JSON**
+- How to check if it's **static or not**
+- **Static**: display it with dynamic **positionning, size, scale and rotation**
+- **Animated**: same shit, but using a **texture atlas** to make it **move in a loop**
+
+Also I learned the **difference** between **HTTPS** request, **SSH** key & **PGP** key in [git](https://git-scm.com/), and how to use them:
+
+- **SSH:**
+    - [Checking for existing key](https://help.github.com/articles/checking-for-existing-ssh-keys/)
+    - [Generate a new key and add to ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+    - [Add to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+- **GPG:**
+    - [Generate a a new key](https://help.github.com/articles/generating-a-new-gpg-key/)
+    - [Add to your GitHub account](https://help.github.com/articles/adding-a-new-gpg-key-to-your-github-account/)
+
 ____
 
 **Learn soon:**
