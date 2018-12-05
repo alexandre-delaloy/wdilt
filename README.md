@@ -149,6 +149,23 @@ Also I learned the **difference** between **HTTPS** request, **SSH** key & **PGP
 
 ____
 
+### 2018-12-05
+
+Today I learned how to **navigate** in a **canvas** with PixiJS:
+
+- **Desktop**: 3 events:
+    - mousedown
+    - mouseup
+    - mousemove
+- **Mobile**: 3 events:
+    - touchstart
+    - touchend
+    - touchmove
+
+Also I learned how to make interaction with sprites, when I click on them
+
+----
+
 **Learn soon:**
 
 - setter
