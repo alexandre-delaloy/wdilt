@@ -112,6 +112,8 @@ Today I learned in **details** what is **ES6 (ECMAScript6)** and all the **chang
 - [Class Inherance](http://es6-features.org/#ClassInheritance)
 - [Getter/Setter](http://es6-features.org/#GetterSetter)
 - [Generator Function](http://es6-features.org/#GeneratorFunctionDirectUse)
+- [Array Element Finding](http://es6-features.org/#ArrayElementFinding)
+- [String Searching](http://es6-features.org/#StringSearching)
 
 ____
 
@@ -162,7 +164,9 @@ Today I learned how to **navigate** in a **canvas** with PixiJS:
     - touchend
     - touchmove
 
-Also I learned how to make interaction with sprites, when I click on them
+Also I learned how to make **interaction** with sprites, when I **click** on them
+
+Also, I continued learned ES6 **changes** and **improvements**, I've update my list at [December, 2nd](#2018-12-02)
 
 ----
 
