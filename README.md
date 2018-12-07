@@ -166,6 +166,12 @@ Also I learned how to make interaction with sprites, when I click on them
 
 ----
 
+### 2018-12-06
+
+Today I learned how to fix a a container when you navigate on the Pixi Render
+
+----
+
 **Learn soon:**
 
 - setter
