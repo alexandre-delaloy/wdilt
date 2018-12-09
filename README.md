@@ -176,6 +176,15 @@ Today I learned how to fix a a container when you navigate on the Pixi Render
 
 ----
 
+### 2018-12-07
+
+Today I learned the difference and the usage of getter and setter method in OOP in JavaScript: 
+
+- [setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
+- [getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
+
+----
+
 **Learn soon:**
 
 - setter
