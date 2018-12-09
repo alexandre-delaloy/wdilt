@@ -170,6 +170,12 @@ Also, I continued learned ES6 **changes** and **improvements**, I've update my l
 
 ----
 
+### 2018-12-06
+
+Today I learned how to fix a a container when you navigate on the Pixi Render
+
+----
+
 **Learn soon:**
 
 - setter

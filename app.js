@@ -1,9 +1,9 @@
 const Calendar = class {
-    constructor(year, month, days, bfr) {
+    constructor(year, month) {
         this.year = year;
         this.month = month;
-        this.days = days;
-        this.bfr = bfr
+        this.days = new Date(this.year, this.month, 0).getDate();
+        this.bfr = new Date(this.year, this.month - 1).getDay();
         this.day = 1;
         this.weeks = Math.floor((this.bfr + this.days) / 7 + 1);
         this.ftr = 7 * this.weeks - this.bfr - this.days;
@@ -60,7 +60,7 @@ const Calendar = class {
         return console.log(`🛠 | Copy/paste the calendar table in a markdown file. \n==================================================\n\n${this.md}`);
     }
 }
-const December = new Calendar(2018, 12, 31, 5);
-const January = new Calendar(2019, 01, 31, 1);
+const December = new Calendar(2018, 12, 31);
+const January = new Calendar(2019, 01, 31);
 
-new Calendar(2019, 02, 28, 4).fill();
+new Calendar(2019, 02).fill();
