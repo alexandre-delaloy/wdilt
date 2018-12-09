@@ -172,23 +172,25 @@ Also, I continued learned ES6 **changes** and **improvements**, I've update my l
 
 ### 2018-12-06
 
-Today I learned how to fix a a container when you navigate on the Pixi Render
+Today I learned **how to fix a a container** when you navigate on the **Pixi Render**
 
 ----
 
 ### 2018-12-07
 
-Today I learned the difference and the usage of getter and setter method in OOP in JavaScript: 
+Today I learned the **difference** and the **usage** of `setter` and `getter` method in **OOP** in JavaScript:
 
 - [setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
 - [getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
 
 ----
 
+### 2018-12-08
+
+Today I learned how to **correctly configure Git**, I create a [repository](https://github.com/blyndusk/git-github-ws) for a **workshop** destinated to **beginners**.
+
 **Learn soon:**
 
-- setter
-- getter
 - boilerplate
 - polyfill
 - transpiller
