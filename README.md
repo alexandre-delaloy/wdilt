@@ -181,13 +181,45 @@ Today I learned **how to fix a a container** when you navigate on the **Pixi Ren
 Today I learned the **difference** and the **usage** of `setter` and `getter` method in **OOP** in JavaScript:
 
 - [setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
+
+```JavaScript
+set prop(val) { ... }
+set [expression](val) { ... }
+```
+
 - [getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
+
+```JavaScript
+{get prop() { ... } }
+{get [expression]() { ... } }
+```
 
 ----
 
 ### 2018-12-08
 
 Today I learned how to **correctly configure Git**, I create a [repository](https://github.com/blyndusk/git-github-ws) for a **workshop** destinated to **beginners**.
+
+----
+
+### 2018-12-09
+
+----
+
+### 2018-12-10
+
+Today I learned the [main concept of React](https://reactjs.org/docs/hello-world.html), starting with [create-react-app](https://github.com/facebook/create-react-app):
+
+    - [1. Hello World](https://reactjs.org/docs/hello-world.html)
+    - [2. Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+    - [3. Rendering elements](https://reactjs.org/docs/rendering-elements.html)
+    - [4. Components and props](https://reactjs.org/docs/components-and-props.html)
+    - [5. State & lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+    - [6. Handling events](https://reactjs.org/docs/handling-events.html)
+    - [7. Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
+    - [8. Lists & keys](https://reactjs.org/docs/lists-and-keys.html)
+
+----
 
 **Learn soon:**
 
