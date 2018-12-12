@@ -210,14 +210,33 @@ Today I learned how to **correctly configure Git**, I create a [repository](http
 
 Today I learned the [main concept of React](https://reactjs.org/docs/hello-world.html), starting with [create-react-app](https://github.com/facebook/create-react-app):
 
-    - [1. Hello World](https://reactjs.org/docs/hello-world.html)
-    - [2. Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-    - [3. Rendering elements](https://reactjs.org/docs/rendering-elements.html)
-    - [4. Components and props](https://reactjs.org/docs/components-and-props.html)
-    - [5. State & lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-    - [6. Handling events](https://reactjs.org/docs/handling-events.html)
-    - [7. Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
-    - [8. Lists & keys](https://reactjs.org/docs/lists-and-keys.html)
+- [1. Hello World](https://reactjs.org/docs/hello-world.html)
+- [2. Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [3. Rendering elements](https://reactjs.org/docs/rendering-elements.html)
+- [4. Components and props](https://reactjs.org/docs/components-and-props.html)
+- [5. State & lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [6. Handling events](https://reactjs.org/docs/handling-events.html)
+- [7. Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [8. Lists & keys](https://reactjs.org/docs/lists-and-keys.html)
+
+----
+
+### 2018-12-11
+
+Today I learned how to **create a form** which update a **list of people**, using [Meteor](https://www.meteor.com/).
+
+Repository [here](https://github.com/blyndusk/meteor-form).
+
+----
+
+### 2018-12-12
+
+Today I continued learn [main concept of React](https://reactjs.org/docs/hello-world.html), starting with [create-react-app](https://github.com/facebook/create-react-app):
+
+- [9. Forms](https://reactjs.org/docs/forms.html)
+- [10. Lifting state up](https://reactjs.org/docs/lifting-state-up.html)
+- [11. Composition vs Inherance](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [12. Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 ----
 
