@@ -1,7 +1,5 @@
 # What did I learned today
 
-> Start December **1st** 📆
-
 ## What is it
 
 **wdilt** aims to:
@@ -15,18 +13,13 @@
 ## Generate a Markdown Calendar
 
 ```JavaScript
-class Calendar(year, month, days, bfr)
+class Calendar(year, month)
 ```
 
 ### Parameters
 
 - `year` : the year of the **month you choose**
 - `month` : the **month** you choose
-- `year` : the **number** of days
-- `bfr` : the number of **empty spaces** before the **first one**
-
-![December](http://image.noelshack.com/fichiers/2018/48/7/1543749577-december.png)
-> Exemple: December of 2018 has **6** empty spaces before the **first one**
 
 ### Run it
 
@@ -37,7 +30,7 @@ class Calendar(year, month, days, bfr)
 __Exemple:__
 
 ```JavaScript
-const December2018 = new Calendar(2018, 12, 31, 6).fill();
+const December2018 = new Calendar(2018, 12).fill();
 ```
 
 > You can see the result in markdown below ⬇️
@@ -204,11 +197,17 @@ Today I learned how to **correctly configure Git**, I create a [repository](http
 
 ### 2018-12-09
 
+Today I learned in details how to configure Git & GitHub, and made a workshop about it.
+
+Repository [here](https://github.com/blyndusk/git-github-ws)
+
 ----
 
 ### 2018-12-10
 
 Today I learned the [main concept of React](https://reactjs.org/docs/hello-world.html), starting with [create-react-app](https://github.com/facebook/create-react-app):
+
+Repository [here](https://github.com/blyndusk/interactive-story)
 
 - [1. Hello World](https://reactjs.org/docs/hello-world.html)
 - [2. Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
