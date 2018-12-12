@@ -189,13 +189,7 @@ set [expression](val) { ... }
 
 ----
 
-### 2018-12-08
-
-Today I learned how to **correctly configure Git**, I create a [repository](https://github.com/blyndusk/git-github-ws) for a **workshop** destinated to **beginners**.
-
-----
-
-### 2018-12-09
+### 2018-12-08 & 2018-12-09
 
 Today I learned in details how to configure Git & GitHub, and made a workshop about it.
 
