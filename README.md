@@ -231,10 +231,8 @@ Today I continued learn [main concept of React](https://reactjs.org/docs/hello-w
 - [11. Composition vs Inherance](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [12. Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
+### 2018-12-13
+
+Yoday I learned what is a [transpiler](https://en.wikipedia.org/wiki/Source-to-source_compiler) or **source-to-source** compiler
+
 ----
-
-**Learn soon:**
-
-- boilerplate
-- polyfill
-- transpiller
