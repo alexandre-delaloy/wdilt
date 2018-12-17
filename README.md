@@ -257,3 +257,15 @@ Today I learned what is a **polyfill**:
 - [MDN](https://developer.mozilla.org/fr/docs/Glossaire/Polyfill)
 
 ----
+
+### 2018-12-17
+
+Today I learned how to use [SVN](https://fr.wikipedia.org/wiki/Apache_Subversion):
+
+- [[?]](http://svnbook.red-bean.com/en/1.2/svn.ref.svn.c.checkout.html) `svn checkout <url> | svn co <url>` : pull a repo and create a working copy
+- [[?]](http://svnbook.red-bean.com/en/1.2/svn.ref.svn.c.status.html) `svn status` : show files with their modifications or not
+- [[?]](http://svnbook.red-bean.com/en/1.2/svn.ref.svn.c.add.html) `svn add` : add files
+- [[?]](http://svnbook.red-bean.com/en/1.2/svn.ref.svn.c.update.html) `svn update | svn up` : check for modifications and try to merge if that is the case
+- [[?]](http://svnbook.red-bean.com/en/1.2/svn.ref.svn.c.commit.html) `svn commit | svn ci` : send your changes to the SVN server
+
+----
