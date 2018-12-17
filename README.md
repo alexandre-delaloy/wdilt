@@ -236,3 +236,9 @@ Today I continued learn [main concept of React](https://reactjs.org/docs/hello-w
 Yoday I learned what is a [transpiler](https://en.wikipedia.org/wiki/Source-to-source_compiler) or **source-to-source** compiler
 
 ----
+
+### 2018-12-14
+
+Today I learned what is a [boilerplate](https://whatis.techtarget.com/definition/boilerplate)
+
+----
