@@ -242,3 +242,12 @@ Yoday I learned what is a [transpiler](https://en.wikipedia.org/wiki/Source-to-s
 Today I learned what is a [boilerplate](https://whatis.techtarget.com/definition/boilerplate)
 
 ----
+
+### 2018-12-15
+
+Today I learned what is a **polyfill**:
+
+- [Wikipédia](https://fr.wikipedia.org/wiki/Polyfill)
+- [MDN](https://developer.mozilla.org/fr/docs/Glossaire/Polyfill)
+
+----
