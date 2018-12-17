@@ -245,6 +245,12 @@ Today I learned what is a [boilerplate](https://whatis.techtarget.com/definition
 
 ### 2018-12-15
 
+Today I slept
+
+----
+
+### 2018-12-16
+
 Today I learned what is a **polyfill**:
 
 - [Wikipédia](https://fr.wikipedia.org/wiki/Polyfill)
