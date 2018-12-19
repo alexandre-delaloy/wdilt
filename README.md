@@ -272,4 +272,52 @@ Today I learned how to use [SVN](https://fr.wikipedia.org/wiki/Apache_Subversion
 
 ### 2018-12-18
 
+Today I learned how to use the [jService](http://jservice.io/) API:
+
+#### /Clues
+
+- Url: `/api/clues`
+- Options All options are optional:
+
+    - `value(int)`: the value of the clue in dollars
+    - `category(int)`: the id of the category you want to return
+    - `min_date(date)`: earliest date to show, based on original air date
+    - `max_date(date)`: latest date to show, based on original air date
+    - `offset(int)`: offsets the returned clues. Useful in pagination
+
+#### /Random
+
+- Url: `/api/random`
+- Options:
+
+    - `count`(int): amount of clues to return, limited to 100 at a time
+
+#### /Categories
+
+- Url: `/api/categories`
+- Options:
+
+    - `count(int)`: amount of categories to return, limited to 100 at a time
+    - `offset(int)`: offsets the starting id of categories returned. Useful in pagination.
+
+#### /Category
+
+- Url: `/api/category`
+- Options:
+
+    - `id(int)`: Required the ID of the category to return.
+
+#### /Invalid
+
+- Url: `/api/invalid`
+- Options:
+
+    - `id(int)`: Required the ID of the clue to mark as invalid.
+
+> Please mark a clue as invalid when the needed information is not present in the clue. This sometimes happens when clues rely on images or sounds to be answered. When useing jService, you may want to check the invalid_count attribute on clues before using them.
+
+----
+
+### 2018-12-19
+
 ----
