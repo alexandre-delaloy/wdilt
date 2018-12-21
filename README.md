@@ -328,4 +328,9 @@ Today I learned how to use the [jService](http://jservice.io/) API:
 
 ### 2018-12-21
 
+Today I learned how to install [powerlevel9k] theme on my terminal:
+
+- [Install the Powerlevel9k Theme](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#step-1-install-powerlevel9k)
+- [Install Powerline Fonts](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#step-2-install-a-powerline-font)
+
 ----
