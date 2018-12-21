@@ -325,3 +325,7 @@ Today I learned how to use the [jService](http://jservice.io/) API:
 ### 2018-12-20
 
 ----
+
+### 2018-12-21
+
+----
