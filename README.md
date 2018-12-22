@@ -334,3 +334,20 @@ Today I learned how to install [powerlevel9k] theme on my terminal:
 - [Install Powerline Fonts](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#step-2-install-a-powerline-font)
 
 ----
+
+```zsh
+_=sudo
+a=alias
+c=clear
+e=exit
+n=npm
+ni="npm i"
+nig="npm i -g"
+y=yarn
+ya="yarn add"
+yga="yarn global add"
+(faire `alias newalias="too long command"` pour créer un alias)
+
+```
+
+### 2018-12-22
