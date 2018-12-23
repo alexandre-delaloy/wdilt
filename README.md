@@ -335,6 +335,10 @@ Today I learned how to install [powerlevel9k] theme on my terminal:
 
 ----
 
+### 2018-12-22
+
+Today I learned how to make some useful **alias** for **zsh**
+
 ```zsh
 _=sudo
 a=alias
@@ -350,8 +354,6 @@ yga="yarn global add"
 
 ```
 
-### 2018-12-22
-
 ----
 
-2018-12-22
+### 2018-12-23
