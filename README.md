@@ -357,3 +357,16 @@ yga="yarn global add"
 ----
 
 ### 2018-12-23
+
+
+Today I learned how to work with react & Sass
+
+Repository [here](https://github.com/blyndusk/react-scss-starter)
+
+----
+
+### 2018-12-24
+
+Today I learned how to begin to work with jService in a React app
+
+Repository [here](https://github.com/blyndusk/quizzzy)
