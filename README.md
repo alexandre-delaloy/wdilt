@@ -370,3 +370,11 @@ Repository [here](https://github.com/blyndusk/react-scss-starter)
 Today I learned how to begin to work with jService in a React app
 
 Repository [here](https://github.com/blyndusk/quizzzy)
+
+----
+
+### 2018-12-25
+
+Today I learned how to use localStorage to use variables between React components
+
+Repository [here](https://github.com/blyndusk/quizzzy)
