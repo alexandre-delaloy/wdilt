@@ -378,3 +378,9 @@ Repository [here](https://github.com/blyndusk/quizzzy)
 Today I learned how to use localStorage to use variables between React components
 
 Repository [here](https://github.com/blyndusk/quizzzy)
+
+### 2018-12-26
+
+Today I learned how to fetch many API's from localstorage settings
+
+Repository [here](https://github.com/blyndusk/quizzzy)
