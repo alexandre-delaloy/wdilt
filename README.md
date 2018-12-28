@@ -392,3 +392,262 @@ Repository [here](https://github.com/blyndusk/quizzzy)
 ----
 
 ### 2018-12-28
+
+Today I learned how to export VSCode config
+
+```Bash
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 84fa0dbfe8f26f07918a92da26baff6b29bbe615
+GitHub Gist: caf9d3ea47b843377ac7e22edcbe5b2d
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindingsMac.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.2.4
+  debugger-for-chrome v4.11.1
+  gitlens v9.2.4
+  path-intellisense v1.4.2
+  vsc-material-theme v2.6.3
+  vscode-codemetrics v1.17.4
+  vscode-colorize v0.8.3
+  vscode-eslint v1.7.2
+  vscode-markdownlint v0.22.0
+  vscode-scss v0.6.2
+  vscode-versionlens v0.22.0
+  vsliveshare v0.3.1071
+--------------------
+Done.CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 84fa0dbfe8f26f07918a92da26baff6b29bbe615
+GitHub Gist: caf9d3ea47b843377ac7e22edcbe5b2d
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindingsMac.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.2.4
+  debugger-for-chrome v4.11.1
+  gitlens v9.2.4
+  path-intellisense v1.4.2
+  vsc-material-theme v2.6.3
+  vscode-codemetrics v1.17.4
+  vscode-colorize v0.8.3
+  vscode-eslint v1.7.2
+  vscode-markdownlint v0.22.0
+  vscode-scss v0.6.2
+  vscode-versionlens v0.22.0
+  vsliveshare v0.3.1071
+--------------------
+Done.CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 84fa0dbfe8f26f07918a92da26baff6b29bbe615
+GitHub Gist: caf9d3ea47b843377ac7e22edcbe5b2d
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindingsMac.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.2.4
+  debugger-for-chrome v4.11.1
+  gitlens v9.2.4
+  path-intellisense v1.4.2
+  vsc-material-theme v2.6.3
+  vscode-codemetrics v1.17.4
+  vscode-colorize v0.8.3
+  vscode-eslint v1.7.2
+  vscode-markdownlint v0.22.0
+  vscode-scss v0.6.2
+  vscode-versionlens v0.22.0
+  vsliveshare v0.3.1071
+--------------------
+Done.CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 84fa0dbfe8f26f07918a92da26baff6b29bbe615
+GitHub Gist: caf9d3ea47b843377ac7e22edcbe5b2d
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindingsMac.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.2.4
+  debugger-for-chrome v4.11.1
+  gitlens v9.2.4
+  path-intellisense v1.4.2
+  vsc-material-theme v2.6.3
+  vscode-codemetrics v1.17.4
+  vscode-colorize v0.8.3
+  vscode-eslint v1.7.2
+  vscode-markdownlint v0.22.0
+  vscode-scss v0.6.2
+  vscode-versionlens v0.22.0
+  vsliveshare v0.3.1071
+--------------------
+Done.CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 84fa0dbfe8f26f07918a92da26baff6b29bbe615
+GitHub Gist: caf9d3ea47b843377ac7e22edcbe5b2d
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindingsMac.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.2.4
+  debugger-for-chrome v4.11.1
+  gitlens v9.2.4
+  path-intellisense v1.4.2
+  vsc-material-theme v2.6.3
+  vscode-codemetrics v1.17.4
+  vscode-colorize v0.8.3
+  vscode-eslint v1.7.2
+  vscode-markdownlint v0.22.0
+  vscode-scss v0.6.2
+  vscode-versionlens v0.22.0
+  vsliveshare v0.3.1071
+--------------------
+Done.CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 84fa0dbfe8f26f07918a92da26baff6b29bbe615
+GitHub Gist: caf9d3ea47b843377ac7e22edcbe5b2d
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindingsMac.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.2.4
+  debugger-for-chrome v4.11.1
+  gitlens v9.2.4
+  path-intellisense v1.4.2
+  vsc-material-theme v2.6.3
+  vscode-codemetrics v1.17.4
+  vscode-colorize v0.8.3
+  vscode-eslint v1.7.2
+  vscode-markdownlint v0.22.0
+  vscode-scss v0.6.2
+  vscode-versionlens v0.22.0
+  vsliveshare v0.3.1071
+--------------------
+Done.
+```
+
+
+Aliases
+```Bash
+alias a=alias
+
+alias bye="sudo shutdown -h now"
+
+alias c=clear
+alias cdc="cd && c"
+
+alias e=exit
+
+alias gmc="gitmoji -c"
+
+alias letsgo=oShi
+
+alias n=npm
+alias ni="npm i"
+alias nig="npm i -g"
+
+alias stfu="say parlez moins fort !":
+
+alias stfu2="say TAISEZ VOUS TAISEZ VOUS TAISEZ VOUS"
+
+alias oShi="cd ~/Dev/oShi && pm2 start . --watch && cd"
+
+alias rbt="sudo shutdown -r now"
+
+alias tg="say ta gueule"
+
+alias vs="&& code ."
+
+alias y=yarn
+alias ya="yarn add"
+alias yga="yarn global add"
+```
