@@ -389,6 +389,8 @@ Repository [here](https://github.com/blyndusk/quizzzy)
 
 ### 2018-12-27
 
+null
+
 ----
 
 ### 2018-12-28
