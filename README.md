@@ -624,3 +624,7 @@ Done.
 ----
 
 ### 2018-12-30
+
+Today I learned how to use localStorage for a trivia made in React
+
+Repository [here](https://github.com/blyndusk/react-scss-starter)
