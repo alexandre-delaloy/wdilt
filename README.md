@@ -628,3 +628,9 @@ Done.
 Today I learned how to use localStorage for a trivia made in React
 
 Repository [here](https://github.com/blyndusk/react-scss-starter)
+
+---- 
+
+### 2018-12-31
+
+Today is the last day of 2018. Wow.
