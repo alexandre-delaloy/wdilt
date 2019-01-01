@@ -63,4 +63,4 @@ const Calendar = class {
 const December = new Calendar(2018, 12, 31);
 const January = new Calendar(2019, 01, 31);
 
-new Calendar(2019, 02).fill();
+new Calendar(2019, 01).fill();
