@@ -52,3 +52,37 @@ const December2018 = new Calendar(2018, 12).fill();
 ### 2019-01-01
 
 Happy new year !
+
+----
+
+### 2019-01-02
+
+Today I made a list of useful alias 
+
+```bash
+# GLOBAL
+
+alias a=alias
+alias c=clear
+alias cdc="cd && c"
+alias e=exit
+alias vs="&& code ."
+
+# SHUTDOWN
+
+alias bye="sudo shutdown -h now"
+
+# REBOOT
+
+alias rbt="sudo shutdown -r now"
+
+# PACKAGE MANAGER
+
+alias n=npm
+alias ni="npm i"
+alias nig="npm i -g"
+
+alias y=yarn
+alias ya="yarn add"
+alias yga="yarn global add"
+```
