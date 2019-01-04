@@ -91,7 +91,9 @@ alias yga="yarn global add"
 
 ### 2019-01-03
 
-Today I learned
+Today I learned how to work with props, states, and localStorage
+
+[Repository Here](https://github.com/blyndusk/quizzzy)
 
 ----
 
