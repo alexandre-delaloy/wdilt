@@ -57,7 +57,7 @@ Happy new year !
 
 ### 2019-01-02
 
-Today I made a list of useful alias 
+Today I made a list of useful alias
 
 ```bash
 # GLOBAL
@@ -85,11 +85,24 @@ alias nig="npm i -g"
 alias y=yarn
 alias ya="yarn add"
 alias yga="yarn global add"
+```
 
 ----
 
 ### 2019-01-03
 
+Today I learned
 
 ----
-```
+
+### 2019-01-04
+
+Today I learned how specific React component method works:
+
+- [`ComponentDidMount`](https://reactjs.org/docs/react-component.html#componentdidmount): invoked immediately after a component is mounted.
+- [`ComponentDidUpdate`](https://reactjs.org/docs/react-component.html#componentdidupdate): invoked immediately after updating occurs. This method is not called for the initial render.
+- [`UNSAFE_componentWillMount()`](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount):  invoked just before mounting occurs. It is called before `render()`method.
+- [`UNSAFE_componentWillReceiveProps()`](https://reactjs.org/docs/react-component.html#unsafe_componentwillreceiveprops): invoked before a mounted component receives new props.
+- [`UNSAFE_componentWillUpdate()`](https://reactjs.org/docs/react-component.html#unsafe_componentwillupdate):  is invoked just before rendering when new props or state are being received. This method is not called for the initial render.
+
+----
