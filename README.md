@@ -108,3 +108,9 @@ Today I learned how specific React component method works:
 - [`UNSAFE_componentWillUpdate()`](https://reactjs.org/docs/react-component.html#unsafe_componentwillupdate):  is invoked just before rendering when new props or state are being received. This method is not called for the initial render.
 
 ----
+
+### 2019-01-05
+
+Today I learned how to [deploy](https://facebook.github.io/create-react-app/docs/deployment) a project using [create-react-app](https://github.com/facebook/create-react-app) and [GitHub Pages](https://pages.github.com/)
+
+----
