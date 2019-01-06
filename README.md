@@ -114,3 +114,5 @@ Today I learned how specific React component method works:
 Today I learned how to [deploy](https://facebook.github.io/create-react-app/docs/deployment) a project using [create-react-app](https://github.com/facebook/create-react-app) and [GitHub Pages](https://pages.github.com/)
 
 ----
+
+### 2019-01-06
