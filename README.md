@@ -116,3 +116,7 @@ Today I learned how to [deploy](https://facebook.github.io/create-react-app/docs
 ----
 
 ### 2019-01-06
+
+----
+
+### 2019-01-07
