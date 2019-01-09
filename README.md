@@ -125,4 +125,10 @@ Today I learned how to [deploy](https://facebook.github.io/create-react-app/docs
 
 ### 2018-01-08
 
-Today I learned how to use [GreenSock](https://greensock.com/), a **JS library** to make **easy animations**
+Today I learned how to use [GreenSock](https://greensock.com/), a **JS library** to make **easy animations**.
+
+----
+
+### 2019-01-09
+
+Today I learned how to better use props and states in React.
