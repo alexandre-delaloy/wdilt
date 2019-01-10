@@ -141,4 +141,4 @@ Today I learned how to hide 2 pictures and hide one. A picture is worth a thousa
 
 ![2picsin1](./pics/2picsin1.gif)
 
-Codepen [here].(https://codepen.io/blyndusk/pen/JwmRjq)
+Codepen [here](https://codepen.io/blyndusk/pen/JwmRjq).
