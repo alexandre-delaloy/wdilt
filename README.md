@@ -132,3 +132,13 @@ Today I learned how to use [GreenSock](https://greensock.com/), a **JS library**
 ### 2019-01-09
 
 Today I learned how to better use props and states in React.
+
+----
+
+### 2019-01-10
+
+Today I learned how to hide 2 pictures and hide one. A picture is worth a thousand words:
+
+![2picsin1](./pics/2picsin1.gif)
+
+Codepen [here].(https://codepen.io/blyndusk/pen/JwmRjq)
