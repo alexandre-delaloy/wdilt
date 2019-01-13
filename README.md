@@ -131,14 +131,32 @@ Today I learned how to use [GreenSock](https://greensock.com/), a **JS library**
 
 ### 2019-01-09
 
-Today I learned how to better use props and states in React.
+Today I learned how to better use **props and states** in [React](https://reactjs.org/).
 
 ----
 
 ### 2019-01-10
 
-Today I learned how to hide 2 pictures and hide one. A picture is worth a thousand words:
+Today I learned how to **display two pictures hidding one**. A picture is worth a thousand words:
 
 ![2picsin1](./pics/2picsin1.gif)
 
 Codepen [here](https://codepen.io/blyndusk/pen/JwmRjq).
+
+----
+
+### 2019-01-11
+
+----
+
+### 2019-01-12
+
+Today I **teached** how to begin to make a **trivia**, using [React](https://reactjs.org/).
+
+----
+
+### 2019-01-13
+
+Today I learned hwo to use `.splice(index, insert/replace, content)` to **re-sort an array**
+
+----
