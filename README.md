@@ -168,7 +168,7 @@ Today I learned how to export [iTerm2](https://www.iterm2.com/) profile:
 `iTerm2 > Preferences > Profile > Other actions > Copy Profile as JSON`
 
 
-````JSON
+```JSON
 {
   "Working Directory" : "\/Users\/alexdll",
   "Prompt Before Closing 2" : false,
@@ -577,3 +577,10 @@ Today I learned how to export [iTerm2](https://www.iterm2.com/) profile:
   "Custom Directory" : "No"
 }
 ```
+----
+
+### 2019-01-15
+
+Today I learned how to use `UNSAFE_componentWillUpdate()` inside [React](https://reactjs.org/).
+
+----
