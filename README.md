@@ -584,3 +584,11 @@ Today I learned how to export [iTerm2](https://www.iterm2.com/) profile:
 Today I learned how to use `UNSAFE_componentWillUpdate()` inside [React](https://reactjs.org/).
 
 ----
+
+### 2019-01-16
+
+Today I learned how to zooms into `<img>` at **scroll** a s**pecifix position.**
+
+Also, I help [my boy](https://github.com/jasongauvin) to make his own **wdilt** repo.
+
+----
