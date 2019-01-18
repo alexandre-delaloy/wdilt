@@ -605,4 +605,10 @@ Today I learned how to create a Class who get all the DMs from a conversation wi
 
 ----
 
+### 2019-01-19
 
+Today I learned hwo to cursom prompts in [powerlevel9k](https://github.com/bhilburn/powerlevel9k#battery).
+
+Here is a little example: ![powerlevel9k](./pics/powerlevel9k.gif)
+
+----
