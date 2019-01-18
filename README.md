@@ -592,3 +592,15 @@ Today I learned how to zooms into `<img>` at **scroll** a s**pecifix position.**
 Also, I help [my boy](https://github.com/jasongauvin) to make his own **wdilt** repo.
 
 ----
+
+### 2019-01-17
+
+Today I learned how to access to all the messages with a user in [Twinoid](https://twinoid.com)
+
+----
+
+### 2019-01-18
+
+Today I learned how to create a Class who get all the DMs from a conversation with a user [Twinoid](https://twinoid.com) is a faster way
+
+----
