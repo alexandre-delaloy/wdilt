@@ -609,6 +609,14 @@ Today I learned how to create a Class who get all the DMs from a conversation wi
 
 Today I learned hwo to cursom prompts in [powerlevel9k](https://github.com/bhilburn/powerlevel9k#battery).
 
-Here is a little example: ![powerlevel9k](./pics/powerlevel9k.gif)
+
+```ZSH
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(disk_usage ip context dir vcs)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status history time date battery)
+POWERLEVEL9K_HOME_ICON='⊛'
+POWERLEVEL9K_BATTERY_STAGES="▁▂▃▄▅▆▇█"
+POWERLEVEL9K_BATTERY_LEVEL_BACKGROUND=(red1 orangered1 darkorange orange1 gold1 yellow1 yellow2 green1)
+POWERLEVEL9K_BATTERY_CHARGING="cyan"
+```
 
 ----
