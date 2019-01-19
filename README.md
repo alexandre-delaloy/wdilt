@@ -619,4 +619,9 @@ POWERLEVEL9K_BATTERY_LEVEL_BACKGROUND=(red1 orangered1 darkorange orange1 gold1 
 POWERLEVEL9K_BATTERY_CHARGING="cyan"
 ```
 
+Here is a list of my configs save:
+
+- [powerlevel9k config](https://gist.github.com/blyndusk/89acf58f8a1e6c06d47588b5d9c99a8e)
+- [iterm config](https://gist.github.com/blyndusk/86f154c6a745e4a52ee7f4fcb30d1de6)
+
 ----
