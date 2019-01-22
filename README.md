@@ -595,20 +595,19 @@ Also, I help [my boy](https://github.com/jasongauvin) to make his own **wdilt** 
 
 ### 2019-01-17
 
-Today I learned how to access to all the messages with a user in [Twinoid](https://twinoid.com)
+Today I learned how to access to all the messages with a user in [Twinoid](https://twinoid.com).
 
 ----
 
 ### 2019-01-18
 
-Today I learned how to create a Class who get all the DMs from a conversation with a user [Twinoid](https://twinoid.com) is a faster way
+Today I learned how to create a Class who get all the DMs from a conversation with a user [Twinoid](https://twinoid.com) is a faster way.
 
 ----
 
 ### 2019-01-19
 
 Today I learned hwo to cursom prompts in [powerlevel9k](https://github.com/bhilburn/powerlevel9k#battery).
-
 
 ```ZSH
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(disk_usage ip context dir vcs)
@@ -623,5 +622,17 @@ Here is a list of my configs save:
 
 - [powerlevel9k config](https://gist.github.com/blyndusk/89acf58f8a1e6c06d47588b5d9c99a8e)
 - [iterm config](https://gist.github.com/blyndusk/86f154c6a745e4a52ee7f4fcb30d1de6)
+
+----
+
+### 2019-01-20
+
+Today I learned how tu recove **localstorage data** in terms of **user visits**.
+
+----
+
+### 2019-01-21
+
+Today I learned how to make a timeline CSS/JS animation using [TimelineMax(GSAP)](https://greensock.com/timelinemax).
 
 ----
