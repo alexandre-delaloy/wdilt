@@ -642,7 +642,7 @@ Today I learned how to make a timeline CSS/JS animation using [TimelineMax(GSAP)
 
 ----
 
-### 2019-01-22
+### 2019-01-23
 
 Today I learned how to make a scrollable div using fale arrows, using `setInterval()` & `.scrollBy()`
 
