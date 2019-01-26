@@ -647,3 +647,23 @@ Today I learned how to make a timeline CSS/JS animation using [TimelineMax(GSAP)
 Today I learned how to make a scrollable div using fale arrows, using `setInterval()` & `.scrollBy()`
 
 ----
+
+### 2019-01-24
+
+Today I contribute to a bookmark from @sundowndev.
+
+Repository [here](https://github.com/sundowndev/devbreak.fr)
+
+----
+
+### 2018-01-25
+
+Today I create the beginning of a new portfolio using @reactjs.
+
+----
+
+### 2019-01-26
+
+Today I slept.
+
+----
