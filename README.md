@@ -673,3 +673,11 @@ Today I slept.
 Today I've done a ™‚ÊÊ∑ŒÓÊ
 
 ----
+
+### 2019-01-28
+
+Today I update my alias list.
+
+Gist [here](https://gist.github.com/blyndusk/96f33f6db3dfc0ca58025c21d9cca293).
+
+----
