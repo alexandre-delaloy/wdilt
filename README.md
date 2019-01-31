@@ -688,4 +688,10 @@ Today I made a list of my custom useful mixins.
 
 Gist [here](https://gist.github.com/blyndusk/a1314aab9e2a0bc22c19bd458fc92dc9).
 
+----
 
+### 2019-01-30
+
+Today I finished the first version of my 4th portfolio: https://a-dll.com.
+
+----
