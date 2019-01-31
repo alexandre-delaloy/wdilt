@@ -695,3 +695,19 @@ Gist [here](https://gist.github.com/blyndusk/a1314aab9e2a0bc22c19bd458fc92dc9).
 Today I finished the first version of my 4th portfolio: https://a-dll.com.
 
 ----
+
+### 2019-01-31
+
+Today I made a how-to set custom dark mode on Visual Studio Code React-oriented:
+
+- Theme:
+  - download [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+  - set theme to `Material Theme Ocean High Contrast`
+  - set accent color to your favorite color
+
+- Icons:
+  - download [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  - apply Material Icons
+  - configure icon pack to `React`
+  - change folder theme to `specific` (default)
+  - change folder color to your favorite color
