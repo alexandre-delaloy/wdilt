@@ -681,3 +681,11 @@ Today I update my alias list.
 Gist [here](https://gist.github.com/blyndusk/96f33f6db3dfc0ca58025c21d9cca293).
 
 ----
+
+### 2019-01-29
+
+Today I made a list of my custom useful mixins.
+
+Gist [here](https://gist.github.com/blyndusk/a1314aab9e2a0bc22c19bd458fc92dc9).
+
+
