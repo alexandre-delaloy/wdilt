@@ -13,13 +13,14 @@ const Calendar = class {
 | -- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |\n`
     }
     addDay(index) {
+        console.log(this.month)
         return this.tmp[index].push(`[${this.day}](#${this.year}-${this.month}-${this.day})`)
     }
     incDay() {
         if ( this.day <= this.days ) this.day++;
     }
     fill() {
-        if (this.month < 10) this.month = `0${this.day}`;
+        if (this.month < 10) this.month = `0${this.month}`;
         for (let i = 0; i < this.weeks; i++) this.tmp.push([]);
         for (let i = 0; i < this.bfr; i++) this.tmp[0].push(this.space);
         for (let i = 0; i < 7 - this.bfr; i++) {
