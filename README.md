@@ -79,8 +79,12 @@ with [dangerouslySetInnerHTML()](https://reactjs.org/docs/dom-elements.html#dang
 
 ```JavaScript
 <div dangerouslySetInnerHTML={{__html: '<a href="https://google.fr">Google</a>'}} />;
-}
-will return <div>
+```
+
+will return:
+
+```HTML
+<div>
     <a href="https://google.fr">Google</a>
 </div>
 ```
