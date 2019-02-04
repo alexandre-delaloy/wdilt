@@ -63,5 +63,26 @@ Today I learned how to use [Dashlane](https://www.dashlane.com/fr) so that all m
 
 ### 2018-02-04
 
+Today I learned how to paste string into HTML in React:
+
+```bash
+'<a href="https://google.fr">Google</a>'
+```
+
+becomes :
+
+```HTML
+<a href="https://google.fr">Google</a>
+```
+
+with [dangerouslySetInnerHTML()](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml)
+
+```JavaScript
+<div dangerouslySetInnerHTML={{__html: '<a href="https://google.fr">Google</a>'}} />;
+}
+will return <div>
+    <a href="https://google.fr">Google</a>
+</div>
+```
 
 ----
