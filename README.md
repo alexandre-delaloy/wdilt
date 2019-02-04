@@ -65,8 +65,8 @@ Today I learned how to use [Dashlane](https://www.dashlane.com/fr) so that all m
 
 Today I learned how to paste string into HTML in React:
 
-```bash
-'<a href="https://google.fr">Google</a>'
+```
+<a href="https://google.fr">Google</a>
 ```
 
 becomes :
