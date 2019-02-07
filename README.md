@@ -107,8 +107,8 @@ this.state = {
         prop3: 'attribute3'
     },
     style2: {
-        prop4: 'attribute1',
-        prop5: 'attribute2'
+        prop4: 'attribute4',
+        prop5: 'attribute5'
     }
 }
 ```
