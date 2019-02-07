@@ -90,3 +90,31 @@ will return:
 ```
 
 ----
+
+### 2019-02-05
+
+----
+
+### 2019-02-06
+
+Today I learned how to add multiple inline-css in React:
+
+```JavaScript
+this.state = {
+    style1: {
+        prop1: 'attribute1',
+        prop2: 'attribute2',
+        prop3: 'attribute3'
+    },
+    style2: {
+        prop4: 'attribute1',
+        prop5: 'attribute2'
+    }
+}
+```
+
+```JavaScript
+<Component style={{...this.state.style1, ...this.state.style2}}/>
+```
+
+----
