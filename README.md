@@ -136,3 +136,9 @@ Website [here](https://kikopiki.a-dll.com)
 Today I put kikopiki as a under domain of my portfolio, was https://blyndusk.github.io/kikopiki, and now is https://kikopiki.a-dll.com.
 
 ----
+
+### 2019-02-10
+
+I lack sleep ;_;
+
+----
