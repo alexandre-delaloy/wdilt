@@ -130,3 +130,9 @@ Today I finished my 6months project.
 Website [here](https://kikopiki.a-dll.com)
 
 ----
+
+### 2019-02-09
+
+Today I put kikopiki as a under domain of my portfolio, was https://blyndusk.github.io/kikopiki, and now is https://kikopiki.a-dll.com.
+
+----
