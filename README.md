@@ -142,3 +142,9 @@ Today I put kikopiki as a under domain of my portfolio, was https://blyndusk.git
 I lack sleep ;_;
 
 ----
+
+### 2019-02-11
+
+Today i started my initiation to [Vuejs](https://vuejs.org).
+
+Repository [here](https://github.com/blyndusk/vuejs-initiation)
