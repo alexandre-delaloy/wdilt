@@ -148,3 +148,19 @@ I lack sleep ;_;
 Today i started my initiation to [Vuejs](https://vuejs.org).
 
 Repository [here](https://github.com/blyndusk/vuejs-initiation)
+
+----
+
+### 2019-02-12
+
+Today I learned the main concepts of [Vuejs](https://vuejs.org):
+
+- [Introduction](https://vuejs.org/v2/guide/index.html)
+- [Vue Instance](https://vuejs.org/v2/guide/instance.html)
+- [Template Syntax](https://vuejs.org/v2/guide/syntax.html)
+- [Computed Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
+- [Class And Style Binding](https://vuejs.org/v2/guide/class-and-style.html)
+- [Conditional Rendering](https://vuejs.org/v2/guide/conditional.html)
+- [List Rendering](https://vuejs.org/v2/guide/list.html)
+
+----
