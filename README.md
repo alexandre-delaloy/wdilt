@@ -164,3 +164,21 @@ Today I learned the main concepts of [Vuejs](https://vuejs.org):
 - [List Rendering](https://vuejs.org/v2/guide/list.html)
 
 ----
+
+### 2019-02-13
+
+Today I made a basic clicker / idle game in [Vuejs](https://vuejs.org)
+
+----
+
+### 2019-02-14
+
+Today I learned how to make a solar system usign [three.js](https://threejs.org/)
+
+Repository [here](https://github.com/blyndusk/threejs-initiation)
+
+---- 
+
+### 2019-01-15
+
+----
