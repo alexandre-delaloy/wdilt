@@ -196,3 +196,7 @@ Today I studied the differences between [Vuejs](https://vuejs.org) & [Reactjs](h
 Today I learned the basics [vim](https://devhints.io/vim) commands.
 
 ----
+
+### 2019-02-18
+
+Today I commented source code of [calendar generation](/app.js)
