@@ -173,20 +173,26 @@ Today I made a basic clicker / idle game in [Vuejs](https://vuejs.org)
 
 ### 2019-02-14
 
-Today I learned how to make a solar system usign [three.js](https://threejs.org/)
+Today I learned how to make a solar system using [three.js](https://threejs.org/)
 
 Repository [here](https://github.com/blyndusk/threejs-initiation)
 
----- 
+----
 
 ### 2019-01-15
+
+Today I learned how to move into a [three.js](https://threejs.org/) environment using [new THREE.OrbitControls](https://threejs.org/docs/#examples/controls/OrbitControls)
 
 ----
 
 ### 2019-02-16
 
+Today I studied the differences between [Vuejs](https://vuejs.org) & [Reactjs](https://react?org). [[?]](https://fr.vuejs.org/v2/guide/comparison.html)
+
 ----
 
 ### 2019-02-17
+
+Today I learned the basics [vim](https://devhints.io/vim) commands.
 
 ----
