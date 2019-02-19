@@ -200,3 +200,9 @@ Today I learned the basics [vim](https://devhints.io/vim) commands.
 ### 2019-02-18
 
 Today I commented source code of [calendar generation](/app.js)
+
+----
+
+### 2019-02-19 
+
+Today I created [@idddle](https://github.com/idddle), an organisation for my idle / clicker game project.
