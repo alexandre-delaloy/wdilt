@@ -213,4 +213,6 @@ Today I created [@idddle](https://github.com/idddle), an organisation for my idl
 
 Today I updated my list of aliases.
 
-Gist [here](https://gist.github.com/blyndusk/96f33f6db3dfc0ca58025c21d9cca293)
+Gist [here](https://gist.github.com/blyndusk/96f33f6db3dfc0ca58025c21d9cca293).
+
+----
