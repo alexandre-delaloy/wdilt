@@ -217,4 +217,32 @@ Gist [here](https://gist.github.com/blyndusk/96f33f6db3dfc0ca58025c21d9cca293).
 
 ----
 
+### 2019-02-21
+
+----
+
+### 2019-02-22
+
+----
+
+### 2019-02-23
+
+----
+
+### 2019-02-24
+
+Today I learned how to convert large float into scientific wirtting using `toExponential()`
+
+----
+
+### 2019-02-25
+
+Today I tried to solve the group purchase @idddle bug
+
+----
+
+### 2019-02-26
+
+Today I learned how to organise my workflow using GitHub project.
+
 ----
