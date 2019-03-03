@@ -246,3 +246,9 @@ Today I tried to solve the group purchase @idddle bug
 Today I learned how to organise my workflow using GitHub project.
 
 ----
+
+### 2019-02-27
+
+Today I learned how to auto add people on [LinkedIn](https://www.linkedin.com).
+
+Gist [here](https://gist.github.com/blyndusk/1f7c4bfd419dcd20029ca13ec283871e).
