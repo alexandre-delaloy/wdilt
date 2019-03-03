@@ -252,3 +252,11 @@ Today I learned how to organise my workflow using GitHub project.
 Today I learned how to auto add people on [LinkedIn](https://www.linkedin.com).
 
 Gist [here](https://gist.github.com/blyndusk/1f7c4bfd419dcd20029ca13ec283871e).
+
+----
+
+### 2019-02-28
+
+Today I updated my [auto-add-people-linkedin](https://gist.github.com/blyndusk/1f7c4bfd419dcd20029ca13ec283871e) to a grouped [repo](https://github.com/blyndusk.com/shitty-hacks).
+
+----
