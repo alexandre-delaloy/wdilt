@@ -51,3 +51,17 @@ const December2018 = new Calendar(2018, 12).fill();
 Today I finished my version of **auto-add-people-linkedin**.
 
 Files [here](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-people-linkedin)
+
+### 2019-03-02
+
+Nothing today. To apologize, here a vaporwave GIF: 
+
+![random vapowave gif](https://media.giphy.com/media/gTfvh7vNLGmAM/giphy.gif)
+
+----
+
+### 2019-03-03
+
+Today I made the documentation about [shitty-hacks/auto-add-people-linkedin](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-people-linkedin)
+
+----
