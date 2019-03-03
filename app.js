@@ -70,4 +70,4 @@ const Calendar = class {
         return console.log(`🛠 | Copy/paste the calendar table in a markdown file. \n==================================================\n\n${this.md}`);
     }
 }
-new Calendar(2019, 02).fill();
+new Calendar(2019, 03).fill();
