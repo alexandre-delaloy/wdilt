@@ -65,3 +65,9 @@ Nothing today. To apologize, here a vaporwave GIF:
 Today I made the documentation about [shitty-hacks/auto-add-people-linkedin](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-people-linkedin)
 
 ----
+
+### 2019-03-04
+
+Today I learned how to huse [lavomatix](https://github.com/jcchrrr/lavomatix), a front-end bundler.
+
+----
