@@ -68,6 +68,12 @@ Today I made the documentation about [shitty-hacks/auto-add-people-linkedin](htt
 
 ### 2019-03-04
 
-Today I learned how to huse [lavomatix](https://github.com/jcchrrr/lavomatix), a front-end bundler.
+Today I learned how to use [lavomatix](https://github.com/jcchrrr/lavomatix), a front-end bundler.
+
+----
+
+### 2019-03-05
+
+Today I learned how to make multiple AJAX calls in terms of resizing window.
 
 ----
