@@ -77,3 +77,11 @@ Today I learned how to use [lavomatix](https://github.com/jcchrrr/lavomatix), a 
 Today I learned how to make multiple AJAX calls in terms of resizing window.
 
 ----
+
+### 2019-03-05
+
+Today I learned how to call a function on time in terms of a breakpoint.
+
+Gist [here](https://gist.github.com/blyndusk/32b437d4f5d3f2154502709e4bf37885)
+
+----
