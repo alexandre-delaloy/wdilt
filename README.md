@@ -1,5 +1,7 @@
 # What did I learned today
 
+- [March 2019](#--Progression:-March-2019)
+
 ## What is it
 
 **wdilt** aims to:
@@ -12,25 +14,18 @@
 
 ## Generate a Markdown Calendar
 
-```JavaScript
-new Calendar(year, month)
-```
-
-### Parameters
-
-- `year` : the year of the **month you choose**
-- `month` : the **month** you choose
-
+1. **Go to** [main.ts](https://github.com/blyndusk/wdilt/blob/master/main.ts)
+2. **Create** a new Calendar with specific parameters: `new Calendar(year, month)`
+    - `year` : the year of the **month you choose**
+    - `month` : the **month** you choose
+3. fill it: `new Calendar(year, month).fill()`
 ### Run it
-
-- **Create** a new `Calendar` with specific parameters
-- Add `.fill()` **method**
-- run `node main.min.js` in a **large terminal** to see the **results**
+4. run `yarn build` or `npm run build` in a **large terminal** to see the **results**
 
 __Exemple:__
 
 ```JavaScript
-const December2018 = new Calendar(2018, 12).fill();
+const April2019 = new Calendar(2019, 4).fill();
 ```
 
 > You can see the result in markdown below ⬇️
@@ -56,7 +51,7 @@ Files [here](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-peopl
 
 Nothing today. To apologize, here a vaporwave GIF: 
 
-![random vapowave gif](https://media.giphy.com/media/gTfvh7vNLGmAM/giphy.gif)
+![random vapowave gif](https://thumbs.gfycat.com/UnsungCarelessHoiho-max-1mb.gif)
 
 ----
 
