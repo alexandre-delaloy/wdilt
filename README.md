@@ -80,3 +80,27 @@ Today I learned how to call a function on time in terms of a breakpoint.
 Gist [here](https://gist.github.com/blyndusk/32b437d4f5d3f2154502709e4bf37885)
 
 ----
+
+### 2019-03-06
+
+Today I learned how to use [TypeScript](https://www.typescriptlang.org/)
+
+----
+
+### 2019-03-07
+
+Today I updated [wdilt](https://github.com/blyndusk/wdilt) & [shitty-hacks](https://github.com/blyndusk/shitty-hacks) with TS.
+
+Also, I learned how to use **many depedencies** using **NPM scripts:**
+
+```JSON
+"scripts": {
+    "build": "tsc main.ts && uglifyjs main.js -o main.min.js && rm -rf main.js && node main.min.js"
+},
+```
+
+Here, the **build** script will:
+- **compile** TS *input* file to TS *output* file
+- **uglify** the output file and **minify** it to a new JS minified output file
+- remove the **raw** JS file
+- start the **script** of the JS minified file with node
