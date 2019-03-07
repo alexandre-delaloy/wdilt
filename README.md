@@ -1,6 +1,6 @@
 # What did I learned today
 
-- [March 2019](#--Progression:-March-2019)
+[March 2019](#--Progression:-March-2019)
 
 ## What is it
 
