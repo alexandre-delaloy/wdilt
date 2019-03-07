@@ -1,0 +1,24 @@
+{
+  "name": "whatdidilearnedtoday",
+  "version": "1.0.0",
+  "description": "## What is it",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc main.ts && uglifyjs main.js -o main.min.js && rm -rf main.js && node main.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blyndusk/wdilt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blyndusk/wdilt/issues"
+  },
+  "homepage": "https://github.com/blyndusk/wdilt#readme",
+  "dependencies": {
+    "typescript": "^3.3.3333",
+    "uglify-js": "^3.4.9"
+  }
+}
