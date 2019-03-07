@@ -13,7 +13,7 @@
 ## Generate a Markdown Calendar
 
 ```JavaScript
-class Calendar(year, month)
+new Calendar(year, month)
 ```
 
 ### Parameters
@@ -25,7 +25,7 @@ class Calendar(year, month)
 
 - **Create** a new `Calendar` with specific parameters
 - Add `.fill()` **method**
-- run `node app.js` in a **large terminal** to see the **results**
+- run `node main.min.js` in a **large terminal** to see the **results**
 
 __Exemple:__
 

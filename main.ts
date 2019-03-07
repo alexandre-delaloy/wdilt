@@ -1,4 +1,14 @@
 const Calendar = class {
+    year: any;
+    month: any;
+    days: number;
+    emptyDaysBeforeFirstDay: number;
+    day: number;
+    weeks: number;
+    emptyDaysAfterLastDay: number;
+    tmp: any[];
+    space: string;
+    md: string;
     constructor(year, month) {
         // year param
         this.year = year;
@@ -42,7 +52,6 @@ const Calendar = class {
         for (let i = 0; i < 7 - this.emptyDaysBeforeFirstDay; i++) {
             // set the day, if under 10 or not,
             this.day = this.setIntUnderTen(this.day);
-            console.log(this.day);
             // add day in the first week ( 0 ),
             this.addDay(0);
             //  and increment
@@ -67,7 +76,8 @@ const Calendar = class {
         // for every week, push all string in the tmp
         for (let i = 0; i < this.weeks; i++) this.md += `|${this.tmp[i].join('|')}|\n`;
         // return the template
-        return console.log(`🛠 | Copy/paste the calendar table in a markdown file. \n==================================================\n\n${this.md}`);
+        return console.log(`\n🛠 | Copy/paste the calendar table in a markdown file. \n==================================================\n\n${this.md}`);
     }
 }
-new Calendar(2019, 03).fill();
+// init a new Calendar
+new Calendar(2019, 3).fill();
