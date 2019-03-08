@@ -104,3 +104,11 @@ Here, the **build** script will:
 - **uglify** the output file and **minify** it to a new JS minified output file
 - remove the **raw** JS file
 - start the **script** of the JS minified file with node
+
+----
+
+### 2019-03-08
+
+Today I learned how to contribute to a Wordpress UI.
+
+----
