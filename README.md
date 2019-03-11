@@ -112,3 +112,20 @@ Here, the **build** script will:
 Today I learned how to contribute to a Wordpress UI.
 
 ----
+
+### 2019-03-09
+
+----
+
+### 2019-03-09
+
+----
+
+### 2019-03-11
+
+Today I learned how to load a YouTube playlist using [YouTube API v3](https://developers.google.com/youtube/v3/getting-started):
+
+- [how to load a specific playlist from a user](https://developers.google.com/youtube/v3/docs/playlistItems)
+- [how to play a specific video in this playlist](https://developers.google.com/youtube/iframe_api_reference#Queueing_Functions)
+
+----
