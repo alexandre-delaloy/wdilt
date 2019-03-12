@@ -1,10 +1,6 @@
-# What did I learned today
+# Usage
 
-[March 2019](#progression-march-2019)
-
-## What is it
-
-**wdilt** aims to:
+**wdilt** *(What Did I Learned Today)* aims to:
 
 - encourage me to **learn something new** every day
 - see my progression **over time**
@@ -27,7 +23,7 @@ __Exemple:__
 const April2019 = new Calendar(2019, 4).fill();
 ```
 
-> You can see the result in markdown below ⬇️
+> You can see the result in markdown below:
 
 ## Progression: March 2019
 
@@ -157,3 +153,5 @@ Also, I made a list of knowledge to acquire:
 - [Semantic HTML](https://www.lifewire.com/why-use-semantic-html-3468271)
 - [SEO](https://www.link-assistant.com/news/html-tags-for-seo.html)
 - [Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
+
+----
