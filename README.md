@@ -135,9 +135,9 @@ today I **recap my knowledge** as a **front-end developer**, following the [deve
 
 Today I made a list of **required knowledge**:
 
-- [Caption](/docs/KNOWLEDGE.md#caption)
-- [Required knowledge](/docs/KNOWLEDGE.md#required-knowledge)
-- [HTML](/docs/KNOWLEDGE.md#html)
+- [Caption](/annexes/KNOWLEDGE.md#caption)
+- [Required knowledge](/annexes/KNOWLEDGE.md#required-knowledge)
+- [HTML](/annexes/KNOWLEDGE.md#html)
 
 Also, I made a list of knowledge to acquire:
 
@@ -155,3 +155,5 @@ Also, I made a list of knowledge to acquire:
 - [Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
 
 ----
+
+test
