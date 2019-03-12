@@ -19,7 +19,6 @@
     - `year` : the year of the **month you choose**
     - `month` : the **month** you choose
 3. fill it: `new Calendar(year, month).fill()`
-### Run it
 4. run `yarn build` or `npm run build` in a **large terminal** to see the **results**
 
 __Exemple:__
@@ -49,7 +48,7 @@ Files [here](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-peopl
 
 ### 2019-03-02
 
-Nothing today. To apologize, here a vaporwave GIF: 
+Nothing today. To apologize, here a vaporwave GIF:
 
 ![random vapowave gif](https://thumbs.gfycat.com/UnsungCarelessHoiho-max-1mb.gif)
 
@@ -73,7 +72,7 @@ Today I learned how to make multiple AJAX calls in terms of resizing window.
 
 ----
 
-### 2019-03-05
+### 2019-03-06
 
 Today I learned how to call a function on time in terms of a breakpoint.
 
@@ -81,13 +80,13 @@ Gist [here](https://gist.github.com/blyndusk/32b437d4f5d3f2154502709e4bf37885)
 
 ----
 
-### 2019-03-06
+### 2019-03-07
 
 Today I learned how to use [TypeScript](https://www.typescriptlang.org/)
 
 ----
 
-### 2019-03-07
+### 2019-03-08
 
 Today I updated [wdilt](https://github.com/blyndusk/wdilt) & [shitty-hacks](https://github.com/blyndusk/shitty-hacks) with TS.
 
@@ -100,6 +99,7 @@ Also, I learned how to use **many depedencies** using **NPM scripts:**
 ```
 
 Here, the **build** script will:
+
 - **compile** TS *input* file to TS *output* file
 - **uglify** the output file and **minify** it to a new JS minified output file
 - remove the **raw** JS file
@@ -107,17 +107,13 @@ Here, the **build** script will:
 
 ----
 
-### 2019-03-08
+### 2019-03-09
 
 Today I learned how to contribute to a Wordpress UI.
 
 ----
 
-### 2019-03-09
-
-----
-
-### 2019-03-09
+### 2019-03-10
 
 Today I learned that [GitStalk](https://gitstalk.netlify.com/) exist. **Wow**.
 
@@ -129,5 +125,40 @@ Today I learned how to load a **YouTube playlist** using [YouTube API v3](https:
 
 - [how to load a specific playlist from a user](https://developers.google.com/youtube/v3/docs/playlistItems)
 - [how to play a specific video in this playlist](https://developers.google.com/youtube/iframe_api_reference#Queueing_Functions)
+
+----
+
+### 2019-03-12
+
+today I **recap my knowledge** as a **front-end developer**, following the [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 2019:
+
+#### Caption
+
+| **LABEL** |        **MEANING**         |
+|:---------:|----------------------------|
+|   `+++`   | have nothing more to learn |
+|   `++`    | proficiency                |
+|   `+`     | acquired                   |
+|   `*`     | in course of acquisition   |
+|   `-`     | fundamental notions        |
+|   `--`    | basic notions              |
+|   `---`   | not acquired               |
+
+#### Required knowledge
+
+|     **KNOWLEDGE**     | **LABEL** |
+|-----------------------|:---------:|
+| Git - Version control |  `+/++`   |
+| Basic Terminal Usage  |  `++`     |
+| Data Structure        |  `*`      |
+| Algorithms            |  `+`      |
+| SOLID, KISS, YAGNI    |  `---`    |
+| GitHub                |  `+/++`   |
+| Licenses              |  `-`      |
+| Semantic Versionning  |  `--`     |
+| SSH                   |  `*`      |
+| HTTP/HTTPS & APIs     |  `+`      |
+| Design patterns       |  `---`    |
+| Character encoding    |  `-`    |
 
 ----
