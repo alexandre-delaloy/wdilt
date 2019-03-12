@@ -4,8 +4,9 @@
   "description": "## What is it",
   "main": "app.js",
   "scripts": {
-    "build": "tsc main.ts && uglifyjs main.js -o main.min.js && rm -rf main.js && node main.min.js",
-    "deploy": "cp README.md index.html .nojekyll docs"
+    "build": "docsify serve ./docs",
+    "dev": "tsc ./main.ts && uglifyjs ./main.js -o ./main.min.js && rm -rf ./main.js && node ./main.min.js",
+    "deploy": "cp ./docs/README.md ./README.md"
   },
   "repository": {
     "type": "git",
