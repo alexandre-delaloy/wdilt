@@ -4,7 +4,8 @@
   "description": "## What is it",
   "main": "app.js",
   "scripts": {
-    "build": "tsc main.ts && uglifyjs main.js -o main.min.js && rm -rf main.js && node main.min.js"
+    "build": "tsc main.ts && uglifyjs main.js -o main.min.js && rm -rf main.js && node main.min.js",
+    "deploy": "cp README.md index.html .nojekyll deploy"
   },
   "repository": {
     "type": "git",
