@@ -139,8 +139,9 @@ today I **recap my knowledge** as a **front-end developer**, following the [deve
 
 Today I made a list of **required knowledge**:
 
-- [Caption](/tree/master/docs/knowledge.md#caption)
-- [Required knowledge](/tree/master/docsknowledge.md#required-knowledge)
+- [Caption](/docs/KNOWLEDGE.md#caption)
+- [Required knowledge](/docs/KNOWLEDGE.md#required-knowledge)
+- [HTML](/docs/KNOWLEDGE.md#html)
 
 Also, I made a list of knowledge to acquire:
 
