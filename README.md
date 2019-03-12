@@ -132,33 +132,27 @@ Today I learned how to load a **YouTube playlist** using [YouTube API v3](https:
 
 today I **recap my knowledge** as a **front-end developer**, following the [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 2019:
 
-#### Caption
-
-| **LABEL** |        **MEANING**         |
-|:---------:|----------------------------|
-|   `+++`   | have nothing more to learn |
-|   `++`    | proficiency                |
-|   `+`     | acquired                   |
-|   `*`     | in course of acquisition   |
-|   `-`     | fundamental notions        |
-|   `--`    | basic notions              |
-|   `---`   | not acquired               |
-
-#### Required knowledge
-
-|     **KNOWLEDGE**     | **LABEL** |
-|-----------------------|:---------:|
-| Git - Version control |  `+/++`   |
-| Basic Terminal Usage  |  `++`     |
-| Data Structure        |  `*`      |
-| Algorithms            |  `+`      |
-| SOLID, KISS, YAGNI    |  `---`    |
-| GitHub                |  `+/++`   |
-| Licenses              |  `-`      |
-| Semantic Versionning  |  `--`     |
-| SSH                   |  `*`      |
-| HTTP/HTTPS & APIs     |  `+`      |
-| Design patterns       |  `---`    |
-| Character encoding    |  `-`    |
 
 ----
+
+### 2019-03-13
+
+Today I made a list of **required knowledge**:
+
+- [Caption](/knowledge.md#caption)
+- [Required knowledge](/knowledge.md#required-knowledge)
+
+Also, I made a list of knowledge to acquire:
+
+#### Required kownledge
+
+- [KISS, YAGNI, DRY](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
+- [Semantic Version](https://semver.org/)
+- [Design Pattern](https://sourcemaking.com/design_patterns)
+- [Character encoding](https://www.w3.org/International/questions/qa-what-is-encoding)
+
+#### HTML
+
+- [Semantic HTML](https://www.lifewire.com/why-use-semantic-html-3468271)
+- [SEO](https://www.link-assistant.com/news/html-tags-for-seo.html)
+- [Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
