@@ -134,10 +134,12 @@ Today I learned how to generate a website with a markdown file using [docsify](h
 
 ## 2019-03-13
 
-today I **recap my knowledge** as a **front-end developer**, following the [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 2019:
+Today I **recap my knowledge** as a **front-end developer**, following the [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 2019:
 
 - [Caption](/annexes/KNOWLEDGE.md#caption)
 - [Required knowledge](/annexes/KNOWLEDGE.md#required-knowledge)
 - [HTML](/annexes/KNOWLEDGE.md#html)
+
+Also, I learned how to set a [custom domain](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages) to a GitHub Pages website: [https://blyndusk.github.io/wdilt](https://blyndusk.github.io/wdilt) become [http://wdilt.a-dll.com/#/](http://wdilt.a-dll.com/#/)
 
 ----
