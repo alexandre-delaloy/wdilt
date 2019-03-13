@@ -131,3 +131,13 @@ Today I learned how to load a **YouTube playlist** using [YouTube API v3](https:
 Today I learned how to generate a website with a markdown file using [docsify](https://docsify.js.org/#/)
 
 ----
+
+## 2019-03-13
+
+today I **recap my knowledge** as a **front-end developer**, following the [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 2019:
+
+- [Caption](/annexes/KNOWLEDGE.md#caption)
+- [Required knowledge](/annexes/KNOWLEDGE.md#required-knowledge)
+- [HTML](/annexes/KNOWLEDGE.md#html)
+
+----
