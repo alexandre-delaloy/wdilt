@@ -156,11 +156,14 @@ Today I made a list of **knowledge to acquire**:
 - [Semantic Version](https://semver.org/)
 - [Design Pattern](https://sourcemaking.com/design_patterns)
 - [Character encoding](https://www.w3.org/International/questions/qa-what-is-encoding)
+- [Licenses](https://opensource.org/licenses)
 
 ### HTML
 
 - [Semantic HTML](https://www.lifewire.com/why-use-semantic-html-3468271)
 - [SEO](https://www.link-assistant.com/news/html-tags-for-seo.html)
 - [Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
+
+Also, I learned about **licenses**, **data structure** &  **ssh**.
 
 ----

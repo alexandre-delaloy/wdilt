@@ -22,16 +22,16 @@
 |-----------------------|:---------:|
 | Git - Version control |  `+/++`   |
 | Basic Terminal Usage  |  `++`     |
-| Data Structure        |  `*`      |
+| Data Structure        |  `+`      |
 | Algorithms            |  `+`      |
-| SOLID, KISS, YAGNI    |  `++`    |
+| SOLID, KISS, YAGNI    |  `++`     |
 | GitHub                |  `+/++`   |
-| Licenses              |  `-`      |
+| Licenses              |  `+`      |
 | Semantic Versionning  |  `++`     |
-| SSH                   |  `*`      |
+| SSH                   |  `+`      |
 | HTTP/HTTPS & APIs     |  `+`      |
-| Design patterns       |  `---`    |
-| Character encoding    |  `-`      |
+| Design patterns       |  `-`      |
+| Character encoding    |  `+`      |
 
 ## HTML
 
@@ -40,4 +40,4 @@
 | Basics                |   `+++`   |
 | Semantic HTML         |   `++`    |
 | SEO                   |   `+`     |
-| Accessibility         |   `+`      |
+| Accessibility         |   `+`     |
