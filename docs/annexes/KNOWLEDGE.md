@@ -24,10 +24,10 @@
 | Basic Terminal Usage  |  `++`     |
 | Data Structure        |  `*`      |
 | Algorithms            |  `+`      |
-| SOLID, KISS, YAGNI    |  `---`    |
+| SOLID, KISS, YAGNI    |  `++`    |
 | GitHub                |  `+/++`   |
 | Licenses              |  `-`      |
-| Semantic Versionning  |  `--`     |
+| Semantic Versionning  |  `++`     |
 | SSH                   |  `*`      |
 | HTTP/HTTPS & APIs     |  `+`      |
 | Design patterns       |  `---`    |

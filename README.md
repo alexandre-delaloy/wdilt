@@ -140,6 +140,27 @@ Today I **recap my knowledge** as a **front-end developer**, following the [deve
 - [Required knowledge](/annexes/KNOWLEDGE.md#required-knowledge)
 - [HTML](/annexes/KNOWLEDGE.md#html)
 
-Also, I learned how to set a [custom domain](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages) to a GitHub Pages website: [https://blyndusk.github.io/wdilt](https://blyndusk.github.io/wdilt) become [http://wdilt.a-dll.com/#/](http://wdilt.a-dll.com/#/)
+Also, I learned how to set a [custom domain](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages) to a **GitHub pages** website: [https://blyndusk.github.io/wdilt](https://blyndusk.github.io/wdilt) become [http://wdilt.a-dll.com/#/](http://wdilt.a-dll.com/#/)
+
+Also, I learned about [KISS, YAGNI, DRY](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life) & [Semantic Version](https://semver.org/).
+
+----
+
+## 2019-03-14
+
+Today I made a list of **knowledge to acquire**:
+
+### Required kownledge
+
+- [KISS, YAGNI, DRY](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
+- [Semantic Version](https://semver.org/)
+- [Design Pattern](https://sourcemaking.com/design_patterns)
+- [Character encoding](https://www.w3.org/International/questions/qa-what-is-encoding)
+
+### HTML
+
+- [Semantic HTML](https://www.lifewire.com/why-use-semantic-html-3468271)
+- [SEO](https://www.link-assistant.com/news/html-tags-for-seo.html)
+- [Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
 
 ----
