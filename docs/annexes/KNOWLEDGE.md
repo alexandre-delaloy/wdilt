@@ -30,7 +30,7 @@
 | Semantic Versionning  |  `++`     |
 | SSH                   |  `+`      |
 | HTTP/HTTPS & APIs     |  `+`      |
-| Design patterns       |  `-`      |
+| Design patterns       |  `*`      |
 | Character encoding    |  `+`      |
 
 ## HTML
