@@ -167,3 +167,12 @@ Today I made a list of **knowledge to acquire**:
 Also, I learned about **licenses**, **data structure** &  **ssh**.
 
 ----
+
+## 2019-03-15
+
+Today I discover [Primer](https://primer.style/), a group of tools & ressources by GitHub for GitHub.
+
+- [Organisation](https://github.com/primer)
+- [Team](https://github.com/orgs/primer/people)
+
+----
