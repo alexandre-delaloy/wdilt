@@ -176,3 +176,27 @@ Today I discover [Primer](https://primer.style/), a group of tools & ressources 
 - [Team](https://github.com/orgs/primer/people)
 
 ----
+
+## 2019-03-16
+
+Today I make a repo about my tools configuration.
+
+Repo [here](https://github.com/blyndusk/tools-config).
+
+----
+
+## 2019-03-17
+
+Today I learned how to perfectly custom my [powerlevel9k](https://github.com/bhilburn/powerlevel9k) configuration.
+
+File [here](https://github.com/blyndusk/tools-config/blob/master/powerlevel9k-config.zsh).
+
+----
+
+## 2019-03-18
+
+Today I learned how to create a Vue app using [vue-router](https://www.google.com/search?q=vue+router&rlz=1C5CHFA_enFR765FR765&oq=vue+router&aqs=chrome..69i57j69i60j0l4.1006j0j1&sourceid=chrome&ie=UTF-8), [jest](https://jestjs.io/), and many other.
+
+Repo [here](https://github.com/blyndusk/datavisu).
+
+----
