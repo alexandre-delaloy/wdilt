@@ -200,3 +200,9 @@ Today I learned how to create a Vue app using [vue-router](https://www.google.co
 Repo [here](https://github.com/blyndusk/datavisu).
 
 ----
+
+## 2019-03-19
+
+Today I learned how to make Shell scripts.
+
+Scrips [here](https://github.com/blyndusk/tools-config/tree/master/scripts).
