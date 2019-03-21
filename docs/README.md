@@ -206,3 +206,9 @@ Repo [here](https://github.com/blyndusk/datavisu).
 Today I learned how to make Shell scripts.
 
 Scrips [here](https://github.com/blyndusk/tools-config/tree/master/scripts).
+
+## 2019-03-21
+
+Today I learned how to create a Chrome command using bash, with many arguments.
+
+Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chrome.sh).
