@@ -207,8 +207,18 @@ Today I learned how to make Shell scripts.
 
 Scrips [here](https://github.com/blyndusk/tools-config/tree/master/scripts).
 
-## 2019-03-21
+----
+
+## 2019-03-20
 
 Today I learned how to create a Chrome command using bash, with many arguments.
 
 Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chrome.sh).
+
+----
+
+## 2019-03-21
+
+Today I learned how to add colors and backgrounds to ZSH shell.
+
+Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/launch.sh).
