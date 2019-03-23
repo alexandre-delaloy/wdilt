@@ -222,3 +222,13 @@ Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chro
 Today I learned how to add colors and backgrounds to ZSH shell.
 
 Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/launch.sh).
+
+----
+
+## 2019-03-22
+
+Today I finished my Chrome command, with dev & music playlist arguments.
+
+Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chrome.zsh).
+
+----
