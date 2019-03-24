@@ -170,7 +170,7 @@ Also, I learned about **licenses**, **data structure** &  **ssh**.
 
 ## 2019-03-15
 
-Today I discover [Primer](https://primer.style/), a group of tools & ressources by GitHub for GitHub.
+Today I discover [Primer](https://primer.style/), a group of **tools** & **ressources** by **GitHub for GitHub**.
 
 - [Organisation](https://github.com/primer)
 - [Team](https://github.com/orgs/primer/people)
@@ -179,7 +179,7 @@ Today I discover [Primer](https://primer.style/), a group of tools & ressources 
 
 ## 2019-03-16
 
-Today I make a repo about my tools configuration.
+Today I make a repo about my **tools configuration**.
 
 Repo [here](https://github.com/blyndusk/tools-config).
 
@@ -187,7 +187,7 @@ Repo [here](https://github.com/blyndusk/tools-config).
 
 ## 2019-03-17
 
-Today I learned how to perfectly custom my [powerlevel9k](https://github.com/bhilburn/powerlevel9k) configuration.
+Today I learned how to **perfectly custom** my [powerlevel9k](https://github.com/bhilburn/powerlevel9k) configuration.
 
 File [here](https://github.com/blyndusk/tools-config/blob/master/powerlevel9k-config.zsh).
 
@@ -195,7 +195,7 @@ File [here](https://github.com/blyndusk/tools-config/blob/master/powerlevel9k-co
 
 ## 2019-03-18
 
-Today I learned how to create a Vue app using [vue-router](https://www.google.com/search?q=vue+router&rlz=1C5CHFA_enFR765FR765&oq=vue+router&aqs=chrome..69i57j69i60j0l4.1006j0j1&sourceid=chrome&ie=UTF-8), [jest](https://jestjs.io/), and many other.
+Today I learned how to create a **Vue app** using [vue-router](https://www.google.com/search?q=vue+router&rlz=1C5CHFA_enFR765FR765&oq=vue+router&aqs=chrome..69i57j69i60j0l4.1006j0j1&sourceid=chrome&ie=UTF-8), [jest](https://jestjs.io/), and many other.
 
 Repo [here](https://github.com/blyndusk/datavisu).
 
@@ -203,7 +203,7 @@ Repo [here](https://github.com/blyndusk/datavisu).
 
 ## 2019-03-19
 
-Today I learned how to make Shell scripts.
+Today I learned how to make **Shell/Bash/ZSH scripts**.
 
 Scrips [here](https://github.com/blyndusk/tools-config/tree/master/scripts).
 
@@ -211,7 +211,7 @@ Scrips [here](https://github.com/blyndusk/tools-config/tree/master/scripts).
 
 ## 2019-03-20
 
-Today I learned how to create a Chrome command using bash, with many arguments.
+Today I learned how to create a **Chrome command** using `bash`, with many **parameters**.
 
 Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chrome.sh).
 
@@ -219,7 +219,7 @@ Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chro
 
 ## 2019-03-21
 
-Today I learned how to add colors and backgrounds to ZSH shell.
+Today I learned how to add **colors** and **backgrounds** to **ZSH shell**.
 
 Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/launch.sh).
 
@@ -227,8 +227,24 @@ Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/laun
 
 ## 2019-03-22
 
-Today I finished my Chrome command, with dev & music playlist arguments.
+Today I finished my **Chrome command**, with **dev** & **music playlist** parameters.
 
 Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chrome.zsh).
+
+----
+
+## 2019-03-23
+
+Today I had a fucking **headache** all day long.
+
+----
+
+## 2019-03-24
+
+Today I learned how to **display** a simple **todo list** in `ZSH`.
+Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/todo.zsh).
+
+Also, I've updated my **launch** command.
+Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/launch.sh).
 
 ----
