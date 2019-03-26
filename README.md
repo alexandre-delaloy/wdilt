@@ -203,7 +203,7 @@ Repo [here](https://github.com/blyndusk/datavisu).
 
 ## 2019-03-19
 
-Today I learned how to make **Shell/Bash/ZSH scripts**.
+Today I learned how to make `Shell`/`Bash`/`ZSH` **scripts**.
 
 Scrips [here](https://github.com/blyndusk/tools-config/tree/master/scripts).
 
@@ -219,7 +219,7 @@ Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/chro
 
 ## 2019-03-21
 
-Today I learned how to add **colors** and **backgrounds** to **ZSH shell**.
+Today I learned how to add **colors** and **backgrounds** to `ZSH` **shell**.
 
 Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/launch.sh).
 
@@ -246,5 +246,19 @@ Command [here](https://github.com/blyndusk/tools-config/tree/master/scripts/todo
 
 Also, I've updated my **launch** command.
 Command [here](https://github.com/blyndusk/tools-config/blob/master/scripts/launch.sh).
+
+----
+
+## 2019-03-25
+
+Today I learned the difference between `Bash`, `Shell` & `ZSH`.
+
+----
+
+## 2019-03-26
+
+Today I created a repo with the aim to learn front-end from scratch as a no-knowledge person, in one month.
+
+Website [here](https://bit.ly/ffscratch).
 
 ----
