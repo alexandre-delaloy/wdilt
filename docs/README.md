@@ -262,3 +262,9 @@ Today I created a repo with the aim to learn front-end from scratch as a no-know
 Website [here](https://bit.ly/ffscratch).
 
 ----
+
+## 2019-03-26
+
+Today I learned how to fix some **ES6/IE11 bugs**. Damn this browser *sucks*.
+
+----
