@@ -263,8 +263,22 @@ Website [here](https://bit.ly/ffscratch).
 
 ----
 
-## 2019-03-26
+## 2019-03-27
 
 Today I learned how to fix some **ES6/IE11 bugs**. Damn this browser *sucks*.
+
+----
+
+## 2019-03-28
+
+Today I learned how to create a **random avatar pixel generator**.
+
+Pen [here](https://codepen.io/blyndusk/full/oVrzqj?editors=1111).
+
+----
+
+## 2019-03-29
+
+Today I learned how to import a **Google Maps** iframe.
 
 ----
