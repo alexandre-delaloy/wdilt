@@ -282,3 +282,9 @@ Pen [here](https://codepen.io/blyndusk/full/oVrzqj?editors=1111).
 Today I learned how to import a **Google Maps** iframe.
 
 ----
+
+## 2019-03-30
+
+Today I received my [Meepo Mini v2](https://www.meepoboard.com/boards/mini/) board. Yeah there isn't any **no connection** with dev. Whatever I'm *happy*.
+
+----
