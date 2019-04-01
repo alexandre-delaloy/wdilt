@@ -9,7 +9,7 @@ const Calendar = class {
     emptyDaysAfterLastDay: number;
     calendarTemplate: any[];
     space: string;
-    templatePrefix: string;
+    finalTemplate: string;
     constructor() {
         // new date
         this.newDate = new Date
@@ -32,7 +32,7 @@ const Calendar = class {
         // an empty day space
         this.space = '                  ';
         // first part of the calendarTemplate
-        this.templatePrefix = `| 🗓  |         Su       |         Mo       |         Tu       |         We       |         Tu       |         Fr       |         Sa       |
+        this.finalTemplate = `| 🗓  |         Su       |         Mo       |         Tu       |         We       |         Tu       |         Fr       |         Sa       |
 | -- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |\n`
     }
     // push a linked day according to the index ( number of week )
@@ -77,9 +77,9 @@ const Calendar = class {
         // for every last empty days after last day, push empty spaces
         for (let h = 0; h < this.emptyDaysAfterLastDay; h++) this.calendarTemplate[this.calendarTemplate.length - 1].push(this.space);
         // for every week, push all string in the calendarTemplate
-        for (let i = 0; i < this.weeks; i++) this.templatePrefix += `|${this.calendarTemplate[i].join('|')}|\n`;
+        for (let i = 0; i < this.weeks; i++) this.finalTemplate += `|${this.calendarTemplate[i].join('|')}|\n`;
         // return the template
-        return console.log(this.templatePrefix);
+        return console.log(`\n\n\n${this.finalTemplate}\n\n`);
     }
 }
 // init a new Calendar
