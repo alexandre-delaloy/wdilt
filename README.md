@@ -40,4 +40,6 @@ Code [here](https://github.com/blyndusk/wdilt/blob/master/src/main.ts).
 
 Also, I learned in bash the difference between `*` & `@` universal selector.
 
+Also, I discover [shellcheck](https://www.shellcheck.net/), a **shell/bash debugger**.
+
 ----
