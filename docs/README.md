@@ -33,6 +33,6 @@
 
 Today I learned how to update my **markdown calendar generator** with current Date
 
-Code [here]([here](https://github.com/blyndusk/wdilt/blob/master/src/main.ts)).
+Code [here](https://github.com/blyndusk/wdilt/blob/master/src/main.ts).
 
 ----
