@@ -19,7 +19,8 @@
 
 ----
 
-[Old months]()
+- [Old months](https://github.com/blyndusk/wdilt/blob/master/docs/annexes/OLD.md)
+- [Knowledge](https://github.com/blyndusk/wdilt/blob/master/docs/annexes/KNOWLEDGE.md)
 
 # Progression: April 2019
 
@@ -36,5 +37,7 @@
 Today I learned how to update my **markdown calendar generator** with current Date
 
 Code [here](https://github.com/blyndusk/wdilt/blob/master/src/main.ts).
+
+Also, I learned in bash the difference between `*` & `@` universal selector.
 
 ----
