@@ -1,8 +1,6 @@
 > *psst.. hey psst.. you can see the website version [here](https://blyndusk.github.io/wdilt/#/) !*
 
-#
-
-## Usage
+----
 
 **wdilt** *(What Did I Learned Today)* aims to:
 
@@ -12,12 +10,18 @@
 
 > As much as possible related to the **front-end development**
 
-## Generate a Markdown Calendar
+----
+
+**Usage :**
 
 - run `yarn dev` or `npm run dev`
 - copy the **console result** in a new **markdown file**
-  
-> You can see the result in markdown below:
+
+----
+
+- [Old months](https://github.com/blyndusk/wdilt/blob/master/docs/annexes/OLD.md)
+- [Knowledge](https://github.com/blyndusk/wdilt/blob/master/docs/annexes/KNOWLEDGE.md)
+
 
 # Progression: April 2019
 
@@ -29,7 +33,7 @@
 | W4 |[21](#_2019-04-21)|[22](#_2019-04-22)|[23](#_2019-04-23)|[24](#_2019-04-24)|[25](#_2019-04-25)|[26](#_2019-04-26)|[27](#_2019-04-27)|
 | W5 |[28](#_2019-04-28)|[29](#_2019-04-29)|[30](#_2019-04-30)|                  |                  |                  |                  |
 
-## 2019-03-01
+## 2019-04-01
 
 Today I learned how to update my **markdown calendar generator** with current Date
 
