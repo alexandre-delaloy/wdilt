@@ -19,8 +19,8 @@
 
 ----
 
-- [Old months](https://github.com/blyndusk/wdilt/blob/master/docs/annexes/OLD.md)
-- [Knowledge](https://github.com/blyndusk/wdilt/blob/master/docs/annexes/KNOWLEDGE.md)
+- [Old months](/annexes/OLD.md)
+- [Knowledge](/annexes/KNOWLEDGE.md)
 
 # Progression: April 2019
 
