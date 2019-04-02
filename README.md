@@ -43,3 +43,16 @@ Also, I learned in bash the difference between `*` & `@` universal selector.
 Also, I discover [shellcheck](https://www.shellcheck.net/), a **shell/bash debugger**.
 
 ----
+
+## 2019-04-02
+
+Today I learned what exactly is **dotfiles**:
+
+- [Dotfiles definition](https://www.quora.com/What-are-dotfiles)
+- [GitHub dotfiles](https://dotfiles.github.io/)
+
+Also, I renamed **tools-config** to **dotfiles**.
+
+Repo [here](https://github.com/blyndusk/dotfiles)
+
+----
