@@ -77,4 +77,8 @@ Also, I made a PR in [docsify](https://github.com/docsifyjs/docsify) repository.
 
 !> Pull request [here](https://github.com/docsifyjs/docsify/pull/805).
 
+Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfiles).
+
+?> Release [here](https://github.com/blyndusk/dotfiles/releases/tag/0.3.0).
+
 ----
