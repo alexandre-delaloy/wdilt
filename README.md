@@ -66,3 +66,11 @@ Also, I began my dotfiles repo **releases**.
 Repo [here](https://github.com/blyndusk/dotfiles).
 
 ----
+
+## 2019-04-04
+
+Today I learned how ot custom a [docsify theme](https://docsify.js.org/#/themes).
+
+File [here](https://github.com/blyndusk/wdilt/blob/master/docs/neon.css).
+
+----
