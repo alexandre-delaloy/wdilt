@@ -1,4 +1,4 @@
-> *psst.. hey psst.. you can see the website version [here](https://blyndusk.github.io/wdilt/#/) !*
+!> *psst.. hey psst.. you can see the website version [here](https://blyndusk.github.io/wdilt/#/) !*
 
 ----
 
@@ -36,7 +36,7 @@
 
 Today I learned how to update my **markdown calendar generator** with current Date
 
-Code [here](https://github.com/blyndusk/wdilt/blob/master/src/main.ts).
+?> Code [here](https://github.com/blyndusk/wdilt/blob/master/src/main.ts).
 
 Also, I learned in bash the difference between `*` & `@` universal selector.
 
@@ -53,7 +53,7 @@ Today I learned what exactly is **dotfiles**:
 
 Also, I renamed **tools-config** to **dotfiles**.
 
-Repo [here](https://github.com/blyndusk/dotfiles)
+?> Repo [here](https://github.com/blyndusk/dotfiles)
 
 ----
 
@@ -63,7 +63,7 @@ Today I learned how to **sync** **remote** file from a **repo** to **local** fil
 
 Also, I began my dotfiles repo **releases**.
 
-Repo [here](https://github.com/blyndusk/dotfiles).
+?> Repo [here](https://github.com/blyndusk/dotfiles).
 
 ----
 
@@ -71,6 +71,10 @@ Repo [here](https://github.com/blyndusk/dotfiles).
 
 Today I learned how ot custom a [docsify theme](https://docsify.js.org/#/themes).
 
-File [here](https://github.com/blyndusk/wdilt/blob/master/docs/neon.css).
+?> File [here](https://github.com/blyndusk/wdilt/blob/master/docs/neon.css).
+
+Also, I made a PR in [docsify](https://github.com/docsifyjs/docsify) repository.
+
+!> Pull request [here](https://github.com/docsifyjs/docsify/pull/805).
 
 ----
