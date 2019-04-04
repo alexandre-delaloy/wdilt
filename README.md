@@ -56,3 +56,13 @@ Also, I renamed **tools-config** to **dotfiles**.
 Repo [here](https://github.com/blyndusk/dotfiles)
 
 ----
+
+## 2019-04-03
+
+Today I learned how to **sync** **remote** file from a **repo** to **local** file in my **computer**.
+
+Also, I began my dotfiles repo **releases**.
+
+Repo [here](https://github.com/blyndusk/dotfiles).
+
+----
