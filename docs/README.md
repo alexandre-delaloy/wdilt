@@ -79,7 +79,7 @@ Also, I made a PR in [docsify](https://github.com/docsifyjs/docsify) repository.
 
 Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfiles).
 
-?> Release [here](https://github.com/blyndusk/dotfiles/releases/tag/0.3.0).
+?> Release [here](https://github.com/blyndusk/dotfiles/releases/latest).
 
 ----
 
@@ -87,6 +87,10 @@ Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfi
 
 Today I learned how to ignore specific [shellcheck](https://shellcheck.net) rules.
 
-Also, I learned how to execute a `bash` script if another fail (*if the other has error return message*)
+Also, I learned how to execute a `bash` script if another fail (*if the other has error return message*).
+
+Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfiles).
+
+?> Release [here](https://github.com/blyndusk/dotfiles/releases/latest).
 
 ----
