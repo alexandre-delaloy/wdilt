@@ -82,3 +82,11 @@ Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfi
 ?> Release [here](https://github.com/blyndusk/dotfiles/releases/tag/0.3.0).
 
 ----
+
+## 2019-04-05
+
+Today I learned how to ignore specific [shellcheck](https://shellcheck.net) rules.
+
+Also, I learned how to execute a `bash` script if another fail (*if the other has error return message*)
+
+----
