@@ -56,3 +56,9 @@ Also, I renamed **tools-config** to **dotfiles**.
 Repo [here](https://github.com/blyndusk/dotfiles)
 
 ----
+
+## 2019-04-06
+
+Today, I'm out of my own mind, trying to be in other's
+
+----
