@@ -106,3 +106,11 @@ Today, I'm out of my own mind, trying to be in other's
 Today I learned that [LinkedIn](https://www.linkedin.com) changes their adding people system
 
 ----
+
+## 2019-04-08
+
+Today I updated my code according to LinkedIn changes.
+
+?> Code [here](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-people-linkedin)
+
+----
