@@ -97,20 +97,28 @@ Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfi
 
 ## 2019-04-06
 
-Today, I'm out of my own mind, trying to be in other's
+Today, I'm out of my own mind, trying to be in other's.
 
 ----
 
 ## 2019-04-07
 
-Today I learned that [LinkedIn](https://www.linkedin.com) changes their adding people system
+Today I learned that [LinkedIn](https://www.linkedin.com) changes their adding people system.
 
 ----
 
 ## 2019-04-08
 
-Today I updated my code according to LinkedIn changes.
+Today I updated my code according to **LinkedIn** changes.
 
-?> Code [here](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-people-linkedin)
+?> Code [here](https://github.com/blyndusk/shitty-hacks/tree/master/auto-add-people-linkedin).
 
 ----
+
+## 2019-04-09
+
+Today I learned how to **generate** `SVGs` according to a `JSON`.
+
+!> Website [here](https://blyndusk.github.io/datavisu/).
+
+?> Code [here](https://github.com/blyndusk/datavisu).
