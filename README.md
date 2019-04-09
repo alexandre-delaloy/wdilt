@@ -100,3 +100,9 @@ Also, I created a new release on my [dotfiles](https://github.com/blyndusk/dotfi
 Today, I'm out of my own mind, trying to be in other's
 
 ----
+
+## 2019-04-07
+
+Today I learned that [LinkedIn](https://www.linkedin.com) changes their adding people system
+
+----
