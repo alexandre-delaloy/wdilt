@@ -122,3 +122,9 @@ Today I learned how to **generate** `SVGs` according to a `JSON`.
 !> Website [here](https://blyndusk.github.io/datavisu/).
 
 ?> Code [here](https://github.com/blyndusk/datavisu).
+
+## 2019-04-10
+
+Today I learned how to create **unit test**, using [chai](https://www.chaijs.com/), [mocha](https://mochajs.org/), [cucmber-js](https://github.com/cucumber/cucumber-js) & [nyc](https://github.com/istanbuljs/nyc).
+
+?> Code [here](https://github.com/blyndusk/unit-tests).
