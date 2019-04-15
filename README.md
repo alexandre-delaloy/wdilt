@@ -135,7 +135,7 @@ Today I learned how to create **unit test**, using [chai](https://www.chaijs.com
 
 ## 2019-04-11
 
-Today I create a **new release** to my **datavisu**, with lots of new features and improving.
+Today I create a **new release** to my **datavisu**, with lots of **new features** & **improving**.
 
 ?> Release [here](https://github.com/blyndusk/datavisu/releases/latest).
 
@@ -152,5 +152,13 @@ Today I learned how to generate **random data**, which'll output a `JSON`.
 ## 2019-04-13
 
 Today I discover [Chart.js](https://github.com/chartjs/Chart.js) & [react-chartjs](https://github.com/reactjs/react-chartjs), to made **datavisu**
+
+----
+
+## 2019-04-14
+
+Today I create a **new release** to my **datavisu**, with **random data** generation & **gender dots**.
+
+?> Release [here](https://github.com/blyndusk/datavisu/releases/latest).
 
 ----
