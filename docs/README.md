@@ -151,7 +151,7 @@ Today I learned how to generate **random data**, which'll output a `JSON`.
 
 ## 2019-04-13
 
-Today I discover [Chart.js](https://github.com/chartjs/Chart.js) & [react-chartjs](https://github.com/reactjs/react-chartjs), to made **datavisu**
+Today I discover [Chart.js](https://www.chartjs.org/samples/latest/) & [react-chartjs](https://github.com/reactjs/react-chartjs), to made **datavisu**.
 
 ----
 
@@ -162,3 +162,7 @@ Today I create a **new release** to my **datavisu**, with **random data** genera
 ?> Release [here](https://github.com/blyndusk/datavisu/releases/latest).
 
 ----
+
+## 2019-04-15
+
+Today I discover [fullPage.js](https://alvarotrigo.com/fullPage/#page3) to made **horizontal slide scrolling**.
