@@ -166,3 +166,5 @@ Today I create a **new release** to my **datavisu**, with **random data** genera
 ## 2019-04-15
 
 Today I discover [fullPage.js](https://alvarotrigo.com/fullPage/#page3) to made **horizontal slide scrolling**.
+
+----
