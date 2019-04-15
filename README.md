@@ -140,3 +140,11 @@ Today I create a **new release** to my **datavisu**, with lots of new features a
 ?> Release [here](https://github.com/blyndusk/datavisu/releases/latest).
 
 ----
+
+## 2019-04-12
+
+Today I learned how to generate random data, which'll output a JSON.
+
+?> Code [here](https://github.com/blyndusk/datavisu/blob/0.5.0/src/data/data.js).
+
+----
