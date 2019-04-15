@@ -143,8 +143,14 @@ Today I create a **new release** to my **datavisu**, with lots of new features a
 
 ## 2019-04-12
 
-Today I learned how to generate random data, which'll output a JSON.
+Today I learned how to generate **random data**, which'll output a `JSON`.
 
 ?> Code [here](https://github.com/blyndusk/datavisu/blob/0.5.0/src/data/data.js).
+
+----
+
+## 2019-04-13
+
+Today I discover [Chart.js](https://github.com/chartjs/Chart.js) & [react-chartjs](https://github.com/reactjs/react-chartjs), to made **datavisu**
 
 ----
