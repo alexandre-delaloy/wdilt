@@ -168,3 +168,9 @@ Today I create a **new release** to my **datavisu**, with **random data** genera
 Today I discover [fullPage.js](https://alvarotrigo.com/fullPage) to made **horizontal slide scrolling**.
 
 ----
+
+## 2019-04-16
+
+Today I learned [axios](https://www.google.com/search?q=axios&rlz=1C5CHFA_enFR806FR806&oq=axios&aqs=chrome.0.69i59j69i60j69i59l2j69i60l2.610j0j1&sourceid=chrome&ie=UTF-8), to make **HTTP requests** in `JS`.
+
+----
