@@ -36,7 +36,7 @@ const Calendar = class {
 | -- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |\n`
     }
     // push a linked day according to the index ( number of week )
-    addDay(index) { this.calendarTemplate[index].push(`[${this.day}](#_${this.year}-${this.month}-${this.day})`) };
+    addDay(index) { this.calendarTemplate[index].push(`[${this.day}](#_${this.day}-${this.month}-${this.year})`) };
     // increment the day if its under number of months's days
     incDay () { if ( this.day <= this.days ) this.day++ };
     // of the day/month is under 10, it'll be writter 09 instead of 9, 05 instead of 5, etc
