@@ -174,3 +174,7 @@ Today I discover [fullPage.js](https://alvarotrigo.com/fullPage) to made **horiz
 Today I learned [axios](https://www.google.com/search?q=axios&rlz=1C5CHFA_enFR806FR806&oq=axios&aqs=chrome.0.69i59j69i60j69i59l2j69i60l2.610j0j1&sourceid=chrome&ie=UTF-8), to make **HTTP requests** in `JS`.
 
 ----
+
+## 2019-04-17
+
+Today I learned how to display filters in [React](https://reactjs.org).
