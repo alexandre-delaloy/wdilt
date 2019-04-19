@@ -119,9 +119,9 @@ Today I updated my code according to **LinkedIn** changes.
 
 Today I learned how to **generate** `SVGs` according to a `JSON`.
 
-!> Website [here](https://blyndusk.github.io/datavisu/).
+!> Website [here](https://blyndusk.github.io/unknown-genius/).
 
-?> Code [here](https://github.com/blyndusk/datavisu).
+?> Code [here](https://github.com/blyndusk/unknown-genius).
 
 ----
 
@@ -135,9 +135,9 @@ Today I learned how to create **unit test**, using [chai](https://www.chaijs.com
 
 ## 2019-04-11
 
-Today I create a **new release** to my **datavisu**, with lots of **new features** & **improving**.
+Today I create a **new release** to my **unknown-genius**, with lots of **new features** & **improving**.
 
-?> Release [here](https://github.com/blyndusk/datavisu/releases/latest).
+?> Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
 
 ----
 
@@ -145,21 +145,21 @@ Today I create a **new release** to my **datavisu**, with lots of **new features
 
 Today I learned how to generate **random data**, which'll output a `JSON`.
 
-?> Code [here](https://github.com/blyndusk/datavisu/blob/0.5.0/src/data/data.js).
+?> Code [here](https://github.com/blyndusk/unknown-genius/blob/0.5.0/src/data/data.js).
 
 ----
 
 ## 2019-04-13
 
-Today I discover [Chart.js](https://www.chartjs.org/samples/latest/) & [react-chartjs](https://github.com/reactjs/react-chartjs), to made **datavisu**.
+Today I discover [Chart.js](https://www.chartjs.org/samples/latest/) & [react-chartjs](https://github.com/reactjs/react-chartjs), to made **unknown-genius**.
 
 ----
 
 ## 2019-04-14
 
-Today I create a **new release** to my **datavisu**, with **random data** generation & **gender dots**.
+Today I create a **new release** to my **unknown-genius**, with **random data** generation & **gender dots**.
 
-?> Release [here](https://github.com/blyndusk/datavisu/releases/latest).
+?> Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
 
 ----
 
@@ -177,6 +177,14 @@ Today I learned [axios](https://www.google.com/search?q=axios&rlz=1C5CHFA_enFR80
 
 ## 2019-04-17
 
-Today I learned how to display filters in [React](https://reactjs.org).
+Today I learned how to **display filters** in [React](https://reactjs.org).
+
+----
+
+## 2019-04-18
+
+Today I updated [Quizzzy!](https://blyndusk.github.io/quizzzy/) with `node-sass`, and try to **override HTTP filters**.
+
+?> Repo [here](https://github.com/quizzzy).
 
 ----
