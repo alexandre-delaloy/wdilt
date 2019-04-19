@@ -188,3 +188,15 @@ Today I updated [Quizzzy!](https://blyndusk.github.io/quizzzy/) with `node-sass`
 ?> Repo [here](https://github.com/quizzzy).
 
 ----
+
+## 2019-04-19
+
+Today, to my portfolio, I:
+
+- manage **projects**
+- manage **filters**
+- **style** corrections
+- add **visuals**
+- add an **Easter Egg** (tip: `pic`)
+
+!> Website [here](https://a-dll.com).
