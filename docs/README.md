@@ -191,7 +191,7 @@ Today I updated [Quizzzy!](https://blyndusk.github.io/quizzzy/) with `node-sass`
 
 ## 2019-04-19
 
-Today, to my portfolio, I:
+Today, to **update** my portfolio, I:
 
 - manage **projects**
 - manage **filters**
@@ -200,3 +200,5 @@ Today, to my portfolio, I:
 - add an **Easter Egg** (tip: `pic`)
 
 !> Website [here](https://a-dll.com).
+
+----
