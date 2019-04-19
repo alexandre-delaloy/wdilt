@@ -178,3 +178,5 @@ Today I learned [axios](https://www.google.com/search?q=axios&rlz=1C5CHFA_enFR80
 ## 2019-04-17
 
 Today I learned how to display filters in [React](https://reactjs.org).
+
+----
