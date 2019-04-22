@@ -205,11 +205,21 @@ Today, to **update** my portfolio, I:
 
 ## 2019-04-20
 
-Today I learned what the regular expression are:
+Today I learned what the **regular expression** are:
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
 - [regexr.com](https://regexr.com/)
 - [regex cheat-sheet](https://www.rexegg.com/regex-quickstart.html#chars)
 - [regex introduction](https://www.google.com/search?q=regex+pattern&rlz=1C5CHFA_enFR765FR765&oq=regex+pa&aqs=chrome.1.69i57j0l5.2196j0j4&sourceid=chrome&ie=UTF-8)
+
+----
+
+## 2019-04-21
+
+Today I learned how to add filters to make new axios calls.
+
+Also, I made a new **release** to *unknown-genius*.
+
+?> Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
 
 ----
