@@ -228,7 +228,18 @@ Also, I made a new **release** to *unknown-genius*.
 
 Today I learned how to create files in NodeJS
 
-- [fs.appenFile](https://nodejs.org/api/fs.html#fs_fs_appendfile_path_data_options_callback): add content to the existing file if the file exist
-- [fs.writeFile](https://nodejs.org/api/fs.html#fs_fs_writefile_file_data_options_callback): erase the old content if the file exist
+- [fs.appenFile](https://nodejs.org/api/fs.html#fs_fs_appendfile_path_data_options_callback): appends specified content to a file. If the file does not exist, the file will be created.
+- [fs.open](https://nodejs.org/api/fs.html#fs_fs_open_path_flags_mode_callback): takes a "flag" as the second argument, if the flag is "w" for "writing", the specified file is opened for writing. If the file does not exist, an empty file is created.
+- [fs.writeFile](https://nodejs.org/api/fs.html#fs_fs_writefile_file_data_options_callback): replaces the specified file and content if it exists. If the file does not exist, a new file, containing the specified content, will be created.
+
+- [fs.rename](https://nodejs.org/api/fs.html#fs_fs_rename_oldpath_newpath_callback): renames the specified file.
+
+----
+
+## 2019-02-23
+
+Today I made the first pre-release in my new big project: [mecss](https://github.com/mecss).
+
+?> Release [here](https://github.com/mecss/mecss/releases/latest).
 
 ----
