@@ -223,3 +223,12 @@ Also, I made a new **release** to *unknown-genius*.
 ?> Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
 
 ----
+
+## 2019-04-22
+
+Today I learned how to create files in NodeJS
+
+- [fs.appenFile](https://nodejs.org/api/fs.html#fs_fs_appendfile_path_data_options_callback): add content to the existing file if the file exist
+- [fs.writeFile](https://nodejs.org/api/fs.html#fs_fs_writefile_file_data_options_callback): erase the old content if the file exist
+
+----
