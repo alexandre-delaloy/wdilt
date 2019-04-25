@@ -243,3 +243,11 @@ Today I made the first pre-release in my new big project: [mecss](https://github
 ?> Release [here](https://github.com/mecss/mecss/releases/latest).
 
 ----
+
+## 2019-04-24
+
+Tpoday I made a new release of [mecss](https://github.com/mecss).
+
+?> Release [here](https://github.com/mecss/mecss/releases/latest).
+
+----
