@@ -246,7 +246,7 @@ Today I made the first pre-release in my new big project: [mecss](https://github
 
 ## 2019-04-24
 
-Tpoday I made a new release of [mecss](https://github.com/mecss).
+Today I made a new release of [mecss](https://github.com/mecss).
 
 ?> Release [here](https://github.com/mecss/mecss/releases/latest).
 
@@ -254,8 +254,14 @@ Tpoday I made a new release of [mecss](https://github.com/mecss).
 
 ## 2019-04-25
 
-Tpoday I made a new release of [mecss](https://github.com/mecss).
+Today I made a new release of [mecss](https://github.com/mecss).
 
 ?> Release [here](https://github.com/mecss/mecss/releases/latest).
+
+----
+
+## 2019-04-26
+
+Today I updated [mecss](https://github.com/mecss/mecss) to **TypeScript**.
 
 ----
