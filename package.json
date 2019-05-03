@@ -6,7 +6,7 @@
   "scripts": {
     "build": "docsify serve ./docs",
     "dev": "tsc ./src/main.ts && uglifyjs ./src/main.js -o ./build/main.min.js && rm -rf ./src/main.js && node ./build/main.min.js",
-    "deploy": "cp ./docs/README.md ./README.md"
+    "doc": "cp ./docs/README.md ./README.md"
   },
   "repository": {
     "type": "git",
