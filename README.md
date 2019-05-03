@@ -33,3 +33,29 @@
 | W5 |[26](#_26-05-2019)|[27](#_27-05-2019)|[28](#_28-05-2019)|[29](#_29-05-2019)|[30](#_30-05-2019)|[31](#_31-05-2019)|                  |
 
 ## 01-05-2019
+
+Today I slept.
+
+----
+
+## 02-05-2019
+
+Today I made a new release of [mecss](https://github.com/mecss).
+
+**✅ Features :**
+
+- update **data structure** with **alias** key, to generate doc
+- turn data into `JSON`
+- generate **aliases doc** with TS
+- fill data with "C" aliases
+- create `script/` folder, to stock **custom NPM scripts**
+
+**⚠️ Fixes :**
+
+- remove **useless deps**
+- fix **doc generation** bug
+- fix **vulnerabilities**
+
+?> Release [here](https://github.com/mecss/mecss/releases/latest).
+
+----
