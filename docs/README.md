@@ -59,3 +59,9 @@ Today I made a new release of [mecss](https://github.com/mecss).
 ?> Release [here](https://github.com/mecss/mecss/releases/latest).
 
 ----
+
+## 03-05-2019
+
+Today I updated [mecss aliases data](https://github.com/mecss/mecss/blob/master/data/data.json).
+
+----
