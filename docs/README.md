@@ -77,3 +77,9 @@ Today I made a new release of [mecss (v0.7.0)](https://github.com/mecss).
 ?> Release [here](https://github.com/mecss/mecss/releases/latest).
 
 ----
+
+## 05-05-2019
+
+Today I discovered the new [Microsoft Terminal](https://github.com/microsoft/Terminal).
+
+----
