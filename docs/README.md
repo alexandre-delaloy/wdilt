@@ -83,3 +83,9 @@ Today I made a new release of [mecss (v0.7.0)](https://github.com/mecss).
 Today I discovered the new [Microsoft Terminal](https://github.com/microsoft/Terminal).
 
 ----
+
+## 06-05-19
+
+Today I discovered [chalk](https://github.com/chalk/chalk) a Terminal **string styling** done right.
+
+----
