@@ -89,3 +89,9 @@ Today I discovered the new [Microsoft Terminal](https://github.com/microsoft/Ter
 Today I discovered [chalk](https://github.com/chalk/chalk) a Terminal **string styling** done right.
 
 ----
+
+## 07-05-19
+
+Today I discovered [Regexr](https://regexr.com/), a **HTML/JS** based tool for **creating, testing, and learning** about *Regular Expressions*.
+
+----
