@@ -118,9 +118,17 @@ Today I created my own **cli**.
 
 ## 11-05-19
 
-Today I learned how to make a **custom theme** & **prompt** in `zsh`:
+Today I learned how to make a **custom theme** & **prompt** in `ZSH`:
 
 - [Prompt Expansions](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html)
+
+----
+
+## 12-05-19
+
+Today I created my own `ZSH` theme.
+
+?> Repo [here](https://github.com/blyndusk/blyndusk-terminal-theme).
 
 ----
 
