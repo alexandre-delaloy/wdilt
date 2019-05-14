@@ -137,3 +137,11 @@ Today I created my own `ZSH` theme.
 Today I discovered [meow](https://github.com/sindresorhus/meow), a **CLI app helper**.
 
 ----
+
+## 14-05-19
+
+Today I published the first version of [blyndusk/blyndusk](https://github.com/blyndusk/blyndusk).
+
+?> Release [here](https://github.com/blyndusk/blyndusk/releases/latest).
+
+----
