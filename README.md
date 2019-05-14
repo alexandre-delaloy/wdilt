@@ -98,6 +98,10 @@ Today I discovered [Regexr](https://regexr.com/), a **HTML/JS** based tool for *
 
 ## 08-05-19
 
-Tosay I created [mecss.org](https://github.com/mecss/mecss.org), the official repo for **@mecss website**.
+Today I created [mecss.org](https://github.com/mecss/mecss.org), the official repo for **@mecss website**.
 
 ----
+
+## 09-05-19
+
+Today I learned how to create an **NPM package**. [[?]](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)
