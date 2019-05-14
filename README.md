@@ -105,3 +105,15 @@ Today I created [mecss.org](https://github.com/mecss/mecss.org), the official re
 ## 09-05-19
 
 Today I learned how to create an **NPM package**. [[?]](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)
+
+----
+
+## 10-05-19
+
+Today I created my own **cli**.
+
+?> Repo [here](https://github.com/blyndusk/blyndusk).
+
+----
+
+
