@@ -116,4 +116,12 @@ Today I created my own **cli**.
 
 ----
 
+## 11-05-19
+
+Today I learned how to make a **custom theme** & **prompt** in `zsh`:
+
+- [Prompt Expansions](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html)
+
+----
+
 
