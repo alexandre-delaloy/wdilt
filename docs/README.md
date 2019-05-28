@@ -177,3 +177,11 @@ Today I made the first version of [sm-theme](https://github.com/blyndusk/sm-them
 !> Release [here](https://github.com/blyndusk/sm-theme/releases/tag/1.0.0).
 
 ----
+
+## 20-05-2019
+
+Today I add new features to my cli.
+
+!> Release [here](https://github.com/blyndusk/blyndusk-cli/releases/tag/0.2.0).
+
+----
