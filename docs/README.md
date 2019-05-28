@@ -182,6 +182,14 @@ Today I made the first version of [sm-theme](https://github.com/blyndusk/sm-them
 
 Today I add new features to my cli.
 
-!> Release [here](https://github.com/blyndusk/blyndusk-cli/releases/tag/0.2.0).
+?> Release [here](https://github.com/blyndusk/blyndusk-cli/releases/tag/0.2.0).
+
+----
+
+## 21-05-2019
+
+Today I moved my cli to TypeScript and published it.
+
+!> NPM package [here](https://www.npmjs.com/package/blyndusk-cli)
 
 ----
