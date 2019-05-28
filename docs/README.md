@@ -152,7 +152,7 @@ Today I had the idea to create my own `zsh` theme.
 
 ## 16-05-19
 
-Today I begin to create my zsh theme.
+Today I begin to create my `zsh` theme.
 
 ?> Repo [here](https://github.com/blyndusk/sm-theme).
 
@@ -160,19 +160,19 @@ Today I begin to create my zsh theme.
 
 ## 17-05-19
 
-Today I discover [OctoLinker](https://github.com/OctoLinker/OctoLinker), a browser extension for Chrome, Firefox and Opera which allows you to navigate through code on GitHub more efficiently.
+Today I discover [OctoLinker](https://github.com/OctoLinker/OctoLinker), a **browser extension** for Chrome, Firefox and Opera which allows you to **navigate through code** on GitHub more efficiently.
 
 ----
 
 ## 18-05-2019
 
-Today I add many features in my theme, [sm-theme](https://github.com/blyndusk/sm-theme).
+Today I add **many features** in my theme, [sm-theme](https://github.com/blyndusk/sm-theme).
 
 ----
 
 ## 19-05-2019
 
-Today I made the first version of [sm-theme](https://github.com/blyndusk/sm-theme).
+Today I made the **first** version of [sm-theme](https://github.com/blyndusk/sm-theme).
 
 !> Release [here](https://github.com/blyndusk/sm-theme/releases/tag/1.0.0).
 
@@ -190,6 +190,14 @@ Today I add new features to my cli.
 
 Today I moved my cli to TypeScript and published it.
 
-!> NPM package [here](https://www.npmjs.com/package/blyndusk-cli)
+!> NPM package [here](https://www.npmjs.com/package/blyndusk-cli).
+
+----
+
+## 22-05-2019
+
+Today I add the `bash` version of my **`ZSH` theme**.
+
+?> Theme [here (look for `sm`)](https://github.com/unixorn/awesome-zsh-plugins#themes).
 
 ----
