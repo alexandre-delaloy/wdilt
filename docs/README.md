@@ -201,3 +201,11 @@ Today I add the `bash` version of my **`ZSH` theme**.
 ?> Theme [here (look for `sm`)](https://github.com/unixorn/awesome-zsh-plugins#themes).
 
 ----
+
+## 23-05-2019
+
+Today I add **Map** & **routes** to my @ecolehetic project.
+
+?> Repo [here](https://github.com/blyndusk/unknown-genius).
+
+----
