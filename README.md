@@ -239,3 +239,9 @@ Today I discovered [Svelte](https://svelte.dev/), a **Cybernetically** enhanced 
 Today I discovered [SVGr](https://www.smooth-code.com/open-source/svgr/), which transform **SVGs** into **React components**.
 
 ----
+
+## 27-05-2019
+
+Today I discovered [man](https://en.wikipedia.org/wiki/Man_page), a cli **manual** for **terminal softwares**.
+
+----
