@@ -233,3 +233,9 @@ Today I discovered [Svelte](https://svelte.dev/), a **Cybernetically** enhanced 
 - truly **reactive**
 
 ----
+
+## 26-05-2019
+
+Today I discovered [SVGr](https://www.smooth-code.com/open-source/svgr/), which transform **SVGs** into **React components**.
+
+----
