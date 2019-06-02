@@ -245,3 +245,9 @@ Today I discovered [SVGr](https://www.smooth-code.com/open-source/svgr/), which 
 Today I discovered [man](https://en.wikipedia.org/wiki/Man_page), a cli **manual** for **terminal softwares**.
 
 ----
+
+## 28-05-2019
+
+Today I discovered [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line), a *one-page* guide to master the **command line**.
+
+----
