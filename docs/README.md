@@ -223,3 +223,13 @@ Today I add **Map** & **routes** to my @ecolehetic project.
 Today I discovered [PureScript](http://www.purescript.org), A *strongly-typed* language that compiles to `JavaScript`, written in **Haskell**.
 
 ----
+
+## 25-05-2019
+
+Today I discovered [Svelte](https://svelte.dev/), a **Cybernetically** enhanced web apps with:
+
+- **less** code
+- no **virtual DOM**
+- truly **reactive**
+
+----
