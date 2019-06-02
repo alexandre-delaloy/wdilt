@@ -251,3 +251,9 @@ Today I discovered [man](https://en.wikipedia.org/wiki/Man_page), a cli **manual
 Today I discovered [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line), a *one-page* guide to master the **command line**.
 
 ----
+
+## 29-05-2019
+
+Today I discovered [TLDR](https://github.com/tldr-pages/tldr), a **simplified** and **community-driven man pages**.
+
+----
