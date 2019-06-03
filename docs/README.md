@@ -257,3 +257,9 @@ Today I discovered [The Art Of Command Line](https://github.com/jlevy/the-art-of
 Today I discovered [TLDR](https://github.com/tldr-pages/tldr), a **simplified** and **community-driven man pages**.
 
 ----
+
+## 30-05-2019
+
+Today I discovered [simple icons](https://simpleicons.org/), `SVG` icons for **popular brands**.
+
+----
