@@ -263,3 +263,9 @@ Today I discovered [TLDR](https://github.com/tldr-pages/tldr), a **simplified** 
 Today I discovered [simple icons](https://simpleicons.org/), `SVG` icons for **popular brands**.
 
 ----
+
+## 31-05-2019
+
+Today I discovered [log-update](https://github.com/sindresorhus/log-update), to make terminal **loaders**,**animations**.
+
+----
