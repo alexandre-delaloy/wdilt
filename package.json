@@ -4,8 +4,8 @@
   "description": "What did I learned today, a way to improve myself everyday",
   "main": "build/main.min.js",
   "scripts": {
-    "build": "docsify serve ./docs",
-    "dev": "tsc ./src/main.ts && uglifyjs ./src/main.js -o ./build/main.min.js && rm -rf ./src/main.js && node ./build/main.min.js",
+    "build": "tsc ./src/main.ts && uglifyjs ./src/main.js -o ./build/main.min.js && rm -rf ./src/main.js && node ./build/main.min.js",
+    "dev": "docsify serve ./docs",
     "doc": "cp ./docs/README.md ./README.md"
   },
   "repository": {
