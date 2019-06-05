@@ -45,3 +45,15 @@
 | W6 |[30](#_30-06-2019)|                  |                  |                  |                  |                  |                  |
 
 ----
+
+### 01-06-2019
+
+Today I fixed **dependencies** **vulnerabilites** in many **repositories**:
+
+- [front-end-starter](https://github.com/blyndusk/front-end-starter)
+- [oShi](https://github.com/blyndusk/oShi)
+- [cybm](https://github.com/blyndusk/cybm)
+- [quizzzy](https://github.com/blyndusk/quizzzy)
+- [mecss/mecss](https://github.com/mecss/mecss)
+
+----
