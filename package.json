@@ -1,8 +1,8 @@
 {
-  "name": "whatdidilearnedtoday",
+  "name": "wdilt",
   "version": "1.0.0",
-  "description": "## What is it",
-  "main": "app.js",
+  "description": "What did I learned today, a way to improve myself everyday",
+  "main": "build/main.min.js",
   "scripts": {
     "build": "docsify serve ./docs",
     "dev": "tsc ./src/main.ts && uglifyjs ./src/main.js -o ./build/main.min.js && rm -rf ./src/main.js && node ./build/main.min.js",
