@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/blyndusk/wdilt#readme",
   "dependencies": {
-    "docsify": "^4.9.1",
-    "typescript": "^3.3.3333",
-    "uglify-js": "^3.4.9"
+    "docsify": "^4.9.4",
+    "typescript": "^3.5.1",
+    "uglify-js": "^3.6.0"
   }
 }
