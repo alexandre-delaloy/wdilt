@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg"/></p>
+<p align="center"><img src="https://github.com/blyndusk/wdilt/blob/master/docs/logo.svg"/></p>
 <p align="center">
     <a href="https://github.com/blyndusk/wdilt/blob/master/package.json"><img src="https://img.shields.io/requires/github/blyndusk/wdilt.svg"/></a>
     <a href="https://github.com/blyndusk/wdilt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/blyndusk/wdilt.svg"/></a>
