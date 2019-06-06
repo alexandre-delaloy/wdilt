@@ -73,3 +73,9 @@ Today I made a new release in [sm-theme](https://github.com/blyndusk/blyndusk-cl
 ?> Release [here](https://github.com/blyndusk/blyndusk-cli/releases/tag/1.0.1).
 
 ----
+
+### 04-06-2019
+
+Today I updated [wdilt](https://github.com/blyndusk/wdilt/blob/master/README.md) doc.
+
+----
