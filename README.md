@@ -57,3 +57,11 @@ Today I fixed **dependencies** **vulnerabilites** in many **repositories**:
 - [mecss/mecss](https://github.com/mecss/mecss)
 
 ----
+
+### 02-06-2019
+
+Today I made a new release in [sm-theme](https://github.com/blyndusk/sm-theme).
+
+?> Release [here](https://github.com/blyndusk/sm-theme/releases).
+
+----
