@@ -79,3 +79,9 @@ Today I made a new release in [sm-theme](https://github.com/blyndusk/blyndusk-cl
 Today I updated [wdilt](https://github.com/blyndusk/wdilt/blob/master/README.md) doc.
 
 ----
+
+### 05-06-2019
+
+Today I made a PR to [ChriisX/i18n-translation-builder](https://github.com/ChriisX/i18n-translation-builder)
+
+?> PR [here](https://github.com/ChriisX/i18n-translation-builder/pull/1)
