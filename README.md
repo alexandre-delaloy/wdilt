@@ -62,6 +62,14 @@ Today I fixed **dependencies** **vulnerabilites** in many **repositories**:
 
 Today I made a new release in [sm-theme](https://github.com/blyndusk/sm-theme).
 
-?> Release [here](https://github.com/blyndusk/sm-theme/releases).
+?> Release [here](https://github.com/blyndusk/sm-theme/releases/tag/1.1.0).
+
+----
+
+### 03-06-2019
+
+Today I made a new release in [sm-theme](https://github.com/blyndusk/blyndusk-cli).
+
+?> Release [here](https://github.com/blyndusk/blyndusk-cli/releases/tag/1.0.1).
 
 ----
