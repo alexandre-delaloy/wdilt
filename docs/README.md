@@ -93,3 +93,9 @@ Today I made a PR to [ChriisX/i18n-translation-builder](https://github.com/Chrii
 Today I discover [Algorithm visualizer](https://algorithm-visualizer.org/), an **Interactive Online Platform** that **Visualizes Algorithms** from `Code`.
 
 ----
+
+### 07-06-2019
+
+Today I discover [Mithril.js](https://github.com/MithrilJS/mithril.js), a `JavaScript` Framework for Building **Brilliant Applications**.
+
+----
