@@ -99,3 +99,9 @@ Today I discover [Algorithm visualizer](https://algorithm-visualizer.org/), an *
 Today I discover [Mithril.js](https://github.com/MithrilJS/mithril.js), a `JavaScript` Framework for Building **Brilliant Applications**.
 
 ----
+
+### 08-06-2019
+
+Today I discover [Terminalizer](https://github.com/faressoft/terminalizer), a tool to **record your terminal** and generate **animated gif** images or share a **web player**.
+
+----
