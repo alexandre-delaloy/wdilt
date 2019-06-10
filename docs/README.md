@@ -105,3 +105,9 @@ Today I discover [Mithril.js](https://github.com/MithrilJS/mithril.js), a `JavaS
 Today I discover [Terminalizer](https://github.com/faressoft/terminalizer), a tool to **record your terminal** and generate **animated gif** images or share a **web player**.
 
 ----
+
+### 09-06-2019
+
+Today I discover [ntfy](https://github.com/dschep/ntfy), a utility for **sending notifications**, on demand and when commands finish.
+
+----
