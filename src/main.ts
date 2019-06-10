@@ -12,7 +12,7 @@ const Calendar = class {
     finalTemplate: string;
     constructor() {
         // new date
-        this.newDate = new Date
+        this.newDate = new Date;
         // current year according to current date
         this.year = this.newDate.getFullYear();
         // current month according to current date
@@ -30,20 +30,20 @@ const Calendar = class {
         // wil contain the markdown calendar
         this.calendarTemplate = [];
         // an empty day space
-        this.space = '                  ';
+        this.space = `                  `;
         // first part of the calendarTemplate
         this.finalTemplate = `| 🗓  |         Su       |         Mo       |         Tu       |         We       |         Tu       |         Fr       |         Sa       |
-| -- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |\n`
+| -- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |\n`;
     }
     // push a linked day according to the index ( number of week )
-    addDay(index) { this.calendarTemplate[index].push(`[${this.day}](#_${this.day}-${this.month}-${this.year})`) };
+    addDay(index: number) { this.calendarTemplate[index].push(`[${this.day}](#_${this.day}-${this.month}-${this.year})`); }
     // increment the day if its under number of months's days
-    incDay () { if ( this.day <= this.days ) this.day++ };
+    incDay () { if ( this.day <= this.days ) this.day++; }
     // of the day/month is under 10, it'll be writter 09 instead of 9, 05 instead of 5, etc
-    setIntUnderTen (param) { 
-        if (param < 10) param = `0${param}`;
-        return param   
-    };
+    setIntUnderTen(param: number) {
+        if (param < 10) param = parseFloat(`0${param}`);
+        return param;
+    }
     fill() {
         // init the first month number
         this.month = this.setIntUnderTen(this.month);
@@ -63,7 +63,7 @@ const Calendar = class {
         // for every next week,
         for (let i = 0; i < this.calendarTemplate.length; i++) {
             // unshift the number of the week before every week
-            this.calendarTemplate[i].unshift(` W${i+1} `);
+            this.calendarTemplate[i].unshift(` W${i + 1} `);
             // for every day in the current week
             for (let j = 0; j < 7; j++) {
                 // set the day, if under 10 or not
@@ -72,15 +72,15 @@ const Calendar = class {
                 if (i <= this.weeks - 2 && this.day <= this.days ) this.addDay(i + 1);
                 // and increment
                 this.incDay();
-            }   
+            }
         }
         // for every last empty days after last day, push empty spaces
         for (let h = 0; h < this.emptyDaysAfterLastDay; h++) this.calendarTemplate[this.calendarTemplate.length - 1].push(this.space);
         // for every week, push all string in the calendarTemplate
-        for (let i = 0; i < this.weeks; i++) this.finalTemplate += `|${this.calendarTemplate[i].join('|')}|\n`;
+        for (let i = 0; i < this.weeks; i++) this.finalTemplate += `|${this.calendarTemplate[i].join(`|`)}|\n`;
         // return the template
-        return console.log(`\n\n\n${this.finalTemplate}\n\n`);
+        return console.log(`\n${this.finalTemplate}`);
     }
-}
+};
 // init a new Calendar
 new Calendar().fill();
