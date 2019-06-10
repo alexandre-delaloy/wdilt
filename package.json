@@ -1,10 +1,12 @@
 {
   "name": "wdilt",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "What did I learned today, a way to improve myself everyday",
-  "main": "build/main.min.js",
+  "main": "public/main.min.js",
   "scripts": {
-    "build": "tsc ./src/main.ts && uglifyjs ./src/main.js -o ./build/main.min.js && rm -rf ./src/main.js && node ./build/main.min.js",
+    "lint": "tslint src/**/*.ts",
+    "build": " npm run lint && tsc",
+    "start": "npm run build && node public/main.js",
     "dev": "docsify serve ./docs",
     "doc": "cp ./docs/README.md ./README.md"
   },
@@ -19,9 +21,10 @@
     "url": "https://github.com/blyndusk/wdilt/issues"
   },
   "homepage": "https://github.com/blyndusk/wdilt#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "docsify": "^4.9.4",
-    "typescript": "^3.5.1",
-    "uglify-js": "^3.6.0"
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
   }
 }
