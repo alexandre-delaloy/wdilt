@@ -111,3 +111,11 @@ Today I discover [Terminalizer](https://github.com/faressoft/terminalizer), a to
 Today I discover [ntfy](https://github.com/dschep/ntfy), a utility for **sending notifications**, on demand and when commands finish.
 
 ----
+
+### 10-06-2019
+
+Today I made a new release on [unknown-genius](https://github.com/blyndusk/unknown-genius).
+
+> Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
+
+----
