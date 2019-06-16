@@ -119,3 +119,15 @@ Today I made a new release on [unknown-genius](https://github.com/blyndusk/unkno
 > Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
 
 ----
+
+### From 11-06-2019 to 16-06-2019
+
+This week I worked on [unknown-genius](https://github.com/blyndusk/unknown-genius), my **redline-half-year** school project.
+
+!> Repo [here](https://github.com/blyndusk/unknown-genius)
+
+?> Releases [here](https://github.com/blyndusk/unknown-genius/releases)
+
+?> Website [here](https://blyndusk.github.io/unknown-genius/)
+
+----
