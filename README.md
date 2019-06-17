@@ -131,3 +131,9 @@ This week I worked on [unknown-genius](https://github.com/blyndusk/unknown-geniu
 ?> Website [here](https://blyndusk.github.io/unknown-genius/)
 
 ----
+
+### 17-06-2019
+
+Today I move [unknown-genius](https://github.com/blyndusk/unknown-genius) to `TypeScript` + `React`.
+
+----
