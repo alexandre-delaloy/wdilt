@@ -163,3 +163,8 @@ A **TensorFlow implementation** of **Baidu**'s DeepSpeech architecture.
 
 ----
 
+### 21-06-2019
+
+Today I discover [React Native Windows](https://github.com/microsoft/react-native-windows), a framework for building native Windows apps with React.
+
+----
