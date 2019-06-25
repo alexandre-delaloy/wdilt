@@ -155,3 +155,11 @@ Today I made a **react-typescript-sass starter**.
 ?> Repo [here](https://https://github.com/blyndusk/react-typescript-sass-starter).
 
 ----
+
+### 20-06-2019
+
+Today I discover [DeepSpeech](https://github.com/mozilla/DeepSpeech),
+A **TensorFlow implementation** of **Baidu**'s DeepSpeech architecture.
+
+----
+
