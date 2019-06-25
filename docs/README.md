@@ -137,3 +137,14 @@ This week I worked on [unknown-genius](https://github.com/blyndusk/unknown-geniu
 Today I move [unknown-genius](https://github.com/blyndusk/unknown-genius) to `TypeScript` + `React`.
 
 ----
+
+### 18-06-2019
+
+Today I adapt all myy `.tsx` files to `TypeScript` + `tslint`.
+
+Also, I made the final **pre-release** before **v1.0.0**.
+
+
+?> Releases [here](https://github.com/blyndusk/unknown-genius/release/latest).
+
+----
