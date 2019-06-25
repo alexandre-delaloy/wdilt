@@ -144,7 +144,14 @@ Today I adapt all myy `.tsx` files to `TypeScript` + `tslint`.
 
 Also, I made the final **pre-release** before **v1.0.0**.
 
+?> New release [here](https://github.com/blyndusk/unknown-genius/release/latest).
 
-?> Releases [here](https://github.com/blyndusk/unknown-genius/release/latest).
+----
+
+### 19-06-2019
+
+Today I made a **react-typescript-sass starter**.
+
+?> Repo [here](https://https://github.com/blyndusk/react-typescript-sass-starter).
 
 ----
