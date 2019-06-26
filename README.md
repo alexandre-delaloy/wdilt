@@ -180,3 +180,22 @@ Today I discover the [v](https://github.com/vlang/v) language, a **simple**, **f
 Today I discover [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) & [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en), 2 **dark theme installers** (Chrome/Firefox plug-in) with for many **websites**.
 
 ----
+
+### 24-06-2019
+
+Today I started a [Reactjs](https://reactjs.org) formation. I learned:
+
+- [HOC](https://reactjs.org/docs/higher-order-components.html)
+- [Context](https://reactjs.org/docs/context.html)
+- [Stateless Component](https://reactjs.org/docs/components-and-props.html)
+
+----
+
+### 25-06-2019
+
+Today I learned in [Reactjs](https://reactjs.org):
+
+- [Firebase for Web](https://firebase.google.com/docs/web/setup)
+- [Observer & Subject with `rxjs`](https://rxjs-dev.firebaseapp.com/guide/overview)
+
+----
