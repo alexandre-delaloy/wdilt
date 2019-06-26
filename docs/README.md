@@ -174,3 +174,9 @@ Today I discover [React Native Windows](https://github.com/microsoft/react-nativ
 Today I discover the [v](https://github.com/vlang/v) language, a **simple**, **fast**, **safe**, **compiled** language for developing maintainable software.
 
 ----
+
+### 23-06-2019
+
+Today I discover [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) & [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en), 2 **dark theme installers** (Chrome/Firefox plug-in) with for many **websites**.
+
+----
