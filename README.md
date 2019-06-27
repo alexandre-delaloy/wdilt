@@ -199,3 +199,18 @@ Today I learned in [Reactjs](https://reactjs.org):
 - [Observer & Subject with `rxjs`](https://rxjs-dev.firebaseapp.com/guide/overview)
 
 ----
+
+### 26-06-2019
+
+Today I learned how to make a **Redux** tool using [Hooks](https://reactjs.org/docs/hooks-intro.html) & [Context](https://reactjs.org/docs/context.html).
+
+----
+
+### 27-06-2019
+
+Today I learned **CSS-in-JS** tools:
+
+- [Styled components](https://www.styled-components.com/)
+- [Emotion](https://emotion.sh/docs/introduction)
+
+----
