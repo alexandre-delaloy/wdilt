@@ -214,3 +214,21 @@ Today I learned **CSS-in-JS** tools:
 - [Emotion](https://emotion.sh/docs/introduction)
 
 ----
+
+### 28-06-2019
+
+Today I discover [piskelapp](https://www.piskelapp.com/), a simple **web-based tool** for **Spriting** and **Pixel** art.
+
+----
+
+### 29-06-2019
+
+Today I discover [Box Drawing Unicodes](https://jrgraphix.net/r/Unicode/2500-257F) from [jrgraphix](https://jrgraphix.net/).
+
+----
+
+### 30-06-2019
+
+Today I discover [VCV Rack](https://vcvrack.com/), an **Open-source virtual modular synthesizer**.
+
+----
