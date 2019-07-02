@@ -33,202 +33,28 @@
 - [Old months](/annexes/OLD.md)
 - [Knowledge](/annexes/KNOWLEDGE.md)
 
-## Progression: June 2019
+## Progression: July 2019
 
 | 🗓  |         Su       |         Mo       |         Tu       |         We       |         Tu       |         Fr       |         Sa       |
 | -- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| W1 |                  |                  |                  |                  |                  |                  |[01](#_01-06-2019)|
-| W2 |[02](#_02-06-2019)|[03](#_03-06-2019)|[04](#_04-06-2019)|[05](#_05-06-2019)|[06](#_06-06-2019)|[07](#_07-06-2019)|[08](#_08-06-2019)|
-| W3 |[09](#_09-06-2019)|[10](#_10-06-2019)|[11](#_11-06-2019)|[12](#_12-06-2019)|[13](#_13-06-2019)|[14](#_14-06-2019)|[15](#_15-06-2019)|
-| W4 |[16](#_16-06-2019)|[17](#_17-06-2019)|[18](#_18-06-2019)|[19](#_19-06-2019)|[20](#_20-06-2019)|[21](#_21-06-2019)|[22](#_22-06-2019)|
-| W5 |[23](#_23-06-2019)|[24](#_24-06-2019)|[25](#_25-06-2019)|[26](#_26-06-2019)|[27](#_27-06-2019)|[28](#_28-06-2019)|[29](#_29-06-2019)|
-| W6 |[30](#_30-06-2019)|                  |                  |                  |                  |                  |                  |
+| W1 |                  |[1](#_1-7-2019)|[2](#_2-7-2019)|[3](#_3-7-2019)|[4](#_4-7-2019)|[5](#_5-7-2019)|[6](#_6-7-2019)|
+| W2 |[7](#_7-7-2019)|[8](#_8-7-2019)|[9](#_9-7-2019)|[10](#_10-7-2019)|[11](#_11-7-2019)|[12](#_12-7-2019)|[13](#_13-7-2019)|
+| W3 |[14](#_14-7-2019)|[15](#_15-7-2019)|[16](#_16-7-2019)|[17](#_17-7-2019)|[18](#_18-7-2019)|[19](#_19-7-2019)|[20](#_20-7-2019)|
+| W4 |[21](#_21-7-2019)|[22](#_22-7-2019)|[23](#_23-7-2019)|[24](#_24-7-2019)|[25](#_25-7-2019)|[26](#_26-7-2019)|[27](#_27-7-2019)|
+| W5 |[28](#_28-7-2019)|[29](#_29-7-2019)|[30](#_30-7-2019)|[31](#_31-7-2019)|                  |                  |                  |
 
 ----
 
-### 01-06-2019
+### 01-07-2019
 
-Today I fixed **dependencies** **vulnerabilites** in many **repositories**:
+Today I started learning [PHP](https://php.net)
 
-- [front-end-starter](https://github.com/blyndusk/front-end-starter)
-- [oShi](https://github.com/blyndusk/oShi)
-- [cybm](https://github.com/blyndusk/cybm)
-- [quizzzy](https://github.com/blyndusk/quizzzy)
-- [mecss/mecss](https://github.com/mecss/mecss)
+?> Repo [here](https://github.com/blyndusk/php-rescue)
 
 ----
 
-### 02-06-2019
+### 02-07-2019
 
-Today I made a new release in [sm-theme](https://github.com/blyndusk/sm-theme).
-
-?> Release [here](https://github.com/blyndusk/sm-theme/releases/tag/1.1.0).
-
-----
-
-### 03-06-2019
-
-Today I made a new release in [sm-theme](https://github.com/blyndusk/blyndusk-cli).
-
-?> Release [here](https://github.com/blyndusk/blyndusk-cli/releases/tag/1.0.1).
-
-----
-
-### 04-06-2019
-
-Today I updated [wdilt](https://github.com/blyndusk/wdilt/blob/master/README.md) doc.
-
-----
-
-### 05-06-2019
-
-Today I made a PR to [ChriisX/i18n-translation-builder](https://github.com/ChriisX/i18n-translation-builder)
-
-?> PR [here](https://github.com/ChriisX/i18n-translation-builder/pull/1)
-
-----
-
-### 06-06-2019
-
-Today I discover [Algorithm visualizer](https://algorithm-visualizer.org/), an **Interactive Online Platform** that **Visualizes Algorithms** from `Code`.
-
-----
-
-### 07-06-2019
-
-Today I discover [Mithril.js](https://github.com/MithrilJS/mithril.js), a `JavaScript` Framework for Building **Brilliant Applications**.
-
-----
-
-### 08-06-2019
-
-Today I discover [Terminalizer](https://github.com/faressoft/terminalizer), a tool to **record your terminal** and generate **animated gif** images or share a **web player**.
-
-----
-
-### 09-06-2019
-
-Today I discover [ntfy](https://github.com/dschep/ntfy), a utility for **sending notifications**, on demand and when commands finish.
-
-----
-
-### 10-06-2019
-
-Today I made a new release on [unknown-genius](https://github.com/blyndusk/unknown-genius).
-
-> Release [here](https://github.com/blyndusk/unknown-genius/releases/latest).
-
-----
-
-### From 11-06-2019 to 16-06-2019
-
-This week I worked on [unknown-genius](https://github.com/blyndusk/unknown-genius), my **redline-half-year** school project.
-
-!> Repo [here](https://github.com/blyndusk/unknown-genius)
-
-?> Releases [here](https://github.com/blyndusk/unknown-genius/releases)
-
-?> Website [here](https://blyndusk.github.io/unknown-genius/)
-
-----
-
-### 17-06-2019
-
-Today I move [unknown-genius](https://github.com/blyndusk/unknown-genius) to `TypeScript` + `React`.
-
-----
-
-### 18-06-2019
-
-Today I adapt all myy `.tsx` files to `TypeScript` + `tslint`.
-
-Also, I made the final **pre-release** before **v1.0.0**.
-
-?> New release [here](https://github.com/blyndusk/unknown-genius/release/latest).
-
-----
-
-### 19-06-2019
-
-Today I made a **react-typescript-sass starter**.
-
-?> Repo [here](https://https://github.com/blyndusk/react-typescript-sass-starter).
-
-----
-
-### 20-06-2019
-
-Today I discover [DeepSpeech](https://github.com/mozilla/DeepSpeech),
-A **TensorFlow implementation** of **Baidu**'s DeepSpeech architecture.
-
-----
-
-### 21-06-2019
-
-Today I discover [React Native Windows](https://github.com/microsoft/react-native-windows), a **framework** for building native **Windows** apps with **React**.
-
-----
-
-### 22-06-2019
-
-Today I discover the [v](https://github.com/vlang/v) language, a **simple**, **fast**, **safe**, **compiled** language for developing maintainable software.
-
-----
-
-### 23-06-2019
-
-Today I discover [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) & [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en), 2 **dark theme installers** (Chrome/Firefox plug-in) with for many **websites**.
-
-----
-
-### 24-06-2019
-
-Today I started a [Reactjs](https://reactjs.org) formation. I learned:
-
-- [HOC](https://reactjs.org/docs/higher-order-components.html)
-- [Context](https://reactjs.org/docs/context.html)
-- [Stateless Component](https://reactjs.org/docs/components-and-props.html)
-
-----
-
-### 25-06-2019
-
-Today I learned in [Reactjs](https://reactjs.org):
-
-- [Firebase for Web](https://firebase.google.com/docs/web/setup)
-- [Observer & Subject with `rxjs`](https://rxjs-dev.firebaseapp.com/guide/overview)
-
-----
-
-### 26-06-2019
-
-Today I learned how to make a **Redux** tool using [Hooks](https://reactjs.org/docs/hooks-intro.html) & [Context](https://reactjs.org/docs/context.html).
-
-----
-
-### 27-06-2019
-
-Today I learned **CSS-in-JS** tools:
-
-- [Styled components](https://www.styled-components.com/)
-- [Emotion](https://emotion.sh/docs/introduction)
-
-----
-
-### 28-06-2019
-
-Today I discover [piskelapp](https://www.piskelapp.com/), a simple **web-based tool** for **Spriting** and **Pixel** art.
-
-----
-
-### 29-06-2019
-
-Today I discover [Box Drawing Unicodes](https://jrgraphix.net/r/Unicode/2500-257F) from [jrgraphix](https://jrgraphix.net/).
-
-----
-
-### 30-06-2019
-
-Today I discover [VCV Rack](https://vcvrack.com/), an **Open-source virtual modular synthesizer**.
+Yey
 
 ----
