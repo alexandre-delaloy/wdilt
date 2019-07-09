@@ -87,3 +87,8 @@ Today I discover [pix2pix](https://phillipi.github.io/pix2pix/), an Image-to-ima
 
 ----
 
+### 08-07-2019
+
+Today I discover [Ant Design](https://ant.design/), a design system with values of Nature and Determinacy for better user experience of enterprise applications.
+
+----
