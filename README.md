@@ -92,3 +92,9 @@ Today I discover [pix2pix](https://phillipi.github.io/pix2pix/), an Image-to-ima
 Today I discover [Ant Design](https://ant.design/), a design system with values of Nature and Determinacy for better user experience of enterprise applications.
 
 ----
+
+### 09-07-2019
+
+Today I discover [Node Best Practices](https://github.com/i0natan/nodebestpractices), the largest Node.js best practices list.
+
+----
