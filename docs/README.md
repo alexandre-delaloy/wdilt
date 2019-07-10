@@ -55,46 +55,52 @@ Today I started learning [PHP](https://php.net)
 
 ### 02-07-2019
 
-Today I discover [richelieu](https://github.com/tarraschk/richelieu), a list of the most common French passwords.
+Today I discovered [richelieu](https://github.com/tarraschk/richelieu), a list of the most common French passwords.
 
 ----
 
 ### 03-07-2019
 
-Today I discover [Wappalyser](https://www.wappalyzer.com/), a cross-platform utility that uncovers the technologies used on websites.
+Today I discovered [Wappalyser](https://www.wappalyzer.com/), a cross-platform utility that uncovers the technologies used on websites.
 
 ### 04-06-2019
 
-Today I discover [noy-paid](https://github.com/kleampa/not-paid), a funny hack for freelancers who have not been paid.
+Today I discovered [noy-paid](https://github.com/kleampa/not-paid), a funny hack for freelancers who have not been paid.
 
 ----
 
 ### 05-07-2019
 
-Today I discover [30 seconds of code](https://30secondsofcode.org/), a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+Today I discovered [30 seconds of code](https://30secondsofcode.org/), a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 
 ----
 
 ### 06-07-2019
 
-Today I discover [Brackets](https://github.com/adobe/brackets), the Adobe open source code editor for the web, written in JavaScript, HTML and CSS.
+Today I discovered [Brackets](https://github.com/adobe/brackets), the Adobe open source code editor for the web, written in JavaScript, HTML and CSS.
 
 ----
 
 ### 07-07_2019
 
-Today I discover [pix2pix](https://phillipi.github.io/pix2pix/), an Image-to-image translation with conditional adversarial nets.
+Today I discovered [pix2pix](https://phillipi.github.io/pix2pix/), an Image-to-image translation with conditional adversarial nets.
 
 ----
 
 ### 08-07-2019
 
-Today I discover [Ant Design](https://ant.design/), a design system with values of Nature and Determinacy for better user experience of enterprise applications.
+Today I discovered [Ant Design](https://ant.design/), a design system with values of Nature and Determinacy for better user experience of enterprise applications.
 
 ----
 
 ### 09-07-2019
 
-Today I discover [Node Best Practices](https://github.com/i0natan/nodebestpractices), the largest Node.js best practices list.
+Today I discovered [Node Best Practices](https://github.com/i0natan/nodebestpractices), the largest Node.js best practices list.
+
+----
+
+### 10-07-2019
+
+Today I discovered [sherlock](https://github.com/sherlock-project/sherlock), a Python script used to find usernames across social networks.
 
 ----
