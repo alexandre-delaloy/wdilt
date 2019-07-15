@@ -80,3 +80,10 @@ Today I discover [30 seconds of code](https://30secondsofcode.org/), a curated c
 Today I discover [Brackets](https://github.com/adobe/brackets), the Adobe open source code editor for the web, written in JavaScript, HTML and CSS.
 
 ----
+
+
+### 04-06-2019
+
+Today I discover not paid
+
+----
