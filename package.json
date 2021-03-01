@@ -23,7 +23,7 @@
   "homepage": "https://github.com/blyndusk/wdilt#readme",
   "dependencies": {},
   "devDependencies": {
-    "docsify": "^4.9.4",
+    "docsify": "^4.12.0",
     "tslint": "^5.17.0",
     "typescript": "^3.5.1"
   }
